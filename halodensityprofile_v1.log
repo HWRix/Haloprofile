@@ -1,0 +1,1015 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.6)  26 DEC 2014 06:05
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**halodensityprofile_v1.tex
+(./halodensityprofile_v1.tex
+LaTeX2e <2011/06/27>
+Babel <3.9k> and hyphenation patterns for 78 languages loaded.
+(./aastex.cls
+Document Class: aastex 2005/06/22 5.2/AAS markup document class
+Class aastex Info: Original \LaTeX2.09 style by Chris Biemesderfer (chris@seago
+at.com). Adapted to \LaTeXe by A. Ogawa (ogawa@teleport.com) on input line 83.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+\@slugcmmntwidth=\dimen105
+\abstract@box=\box26
+\c@editornote=\count89
+\c@cureqno=\count90
+\tnotemarkskip=\skip45
+\@abovenoteskip=\dimen106
+\pt@box=\box27
+\pt@width=\dimen107
+\pt@line=\count91
+\pt@column=\count92
+\pt@nlines=\count93
+\pt@ncol=\count94
+\pt@page=\count95
+\tabbaseskip=\dimen108
+\pt@tmpcapwidth=\dimen109
+\spew@tblnotesbox=\box28
+\restof@tblnotesbox=\box29
+\noteheight=\dimen110
+\pt@tabnoteminht=\dimen111
+\firsttabskip=\dimen112
+\captionbox=\box30
+\pt@reduceline=\dimen113
+\extra@vspace=\dimen114
+\c@plate=\count96
+\my@footins=\box31
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip46
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen115
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen116
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box32
+\strutbox@=\box33
+\big@size=\dimen117
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks19
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks20
+\eqnshift@=\dimen118
+\alignsep@=\dimen119
+\tagshift@=\dimen120
+\tagwidth@=\dimen121
+\totwidth@=\dimen122
+\lineht@=\dimen123
+\@envbody=\toks21
+\multlinegap=\skip47
+\multlinetaggap=\skip48
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(./soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks23
+\SOUL@lasttoken=\toks24
+\SOUL@cmds=\toks25
+\SOUL@buffer=\toks26
+\SOUL@token=\toks27
+\SOUL@spaceskip=\skip49
+\SOUL@ttwidth=\dimen124
+\SOUL@uldp=\dimen125
+\SOUL@ulht=\dimen126
+) (./morefloats.sty
+\bx@S=\insert233
+\bx@T=\insert232
+\bx@U=\insert231
+\bx@V=\insert230
+\bx@W=\insert229
+\bx@X=\insert228
+\bx@Y=\insert227
+\bx@Z=\insert226
+\bx@AA=\insert225
+\bx@BB=\insert224
+\bx@CC=\insert223
+\bx@DD=\insert222
+\bx@EE=\insert221
+\bx@FF=\insert220
+\bx@GG=\insert219
+\bx@HH=\insert218
+\bx@II=\insert217
+\bx@JJ=\insert216
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip50
+\LTright=\skip51
+\LTpre=\skip52
+\LTpost=\skip53
+\LTchunksize=\count109
+\LTcapwidth=\dimen127
+\LT@head=\box34
+\LT@firsthead=\box35
+\LT@foot=\box36
+\LT@lastfoot=\box37
+\LT@cols=\count110
+\LT@rows=\count111
+\c@LT@tables=\count112
+\c@LT@chunks=\count113
+\LT@p@ftn=\toks28
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup7
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen128
+\extrarowheight=\dimen129
+\NC@list=\toks29
+\extratabsurround=\skip54
+\backup@length=\skip55
+)
+\TX@col@width=\dimen130
+\TX@old@table=\dimen131
+\TX@old@col=\dimen132
+\TX@target=\dimen133
+\TX@delta=\dimen134
+\TX@cols=\count114
+\TX@ftn=\toks30
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/rotating/rotating.sty
+Package: rotating 2009/03/28 v2.16a rotated objects in LaTeX
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count115
+\rotFPtop=\skip56
+\rotFPbot=\skip57
+\rot@float@box=\box38
+\rot@mess@toks=\toks31
+)
+(./threeparttable.sty
+Package: threeparttable 2003/06/13  v 3.0
+\@tempboxb=\box39
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen135
+\lightrulewidth=\dimen136
+\cmidrulewidth=\dimen137
+\belowrulesep=\dimen138
+\belowbottomsep=\dimen139
+\aboverulesep=\dimen140
+\abovetopsep=\dimen141
+\cmidrulesep=\dimen142
+\cmidrulekern=\dimen143
+\defaultaddspace=\dimen144
+\@cmidla=\count116
+\@cmidlb=\count117
+\@aboverulesep=\dimen145
+\@belowrulesep=\dimen146
+\@thisruleclass=\count118
+\@lastruleclass=\count119
+\@thisrulewidth=\dimen147
+)
+(./caption.sty
+Package: caption 2008/04/01 v3.1h Customizing captions (AR)
+ (./caption3.sty
+Package: caption3 2008/03/20 v3.1h caption3 kernel (AR)
+\captionmargin=\dimen148
+\captionmargin@=\dimen149
+\captionwidth=\dimen150
+\caption@indent=\dimen151
+\caption@parindent=\dimen152
+\caption@hangindent=\dimen153
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used on input line 1024.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+
+Package caption Info: \@makecaption = \long macro:#1#2->\vskip 2ex\noindent #1\
+ #2\par .
+\c@ContinuedFloat=\count120
+Package caption Info: longtable package is loaded.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2013/02/03 v1.3-62 longtable captions (AR)
+)
+Package caption Info: rotating package is loaded.
+Package caption Info: threeparttable package is loaded.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/fixltx2e.sty
+Package: fixltx2e 2006/09/13 v1.1m fixes to LaTeX
+LaTeX Info: Redefining \em on input line 420.
+LaTeX Info: The control sequence `\[' is already robust on input line 471.
+LaTeX Info: The control sequence `\]' is already robust on input line 472.
+)
+(./halodensityprofile_v1.aux)
+\openout1 = `halodensityprofile_v1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen154
+\scratchbox=\box40
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen155
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks33
+) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+AAS preprint substyle, v5.2 <12 Dec 2003>.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 36.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 36.
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) [1
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+
+Package natbib Warning: Citation `Harris1976' on page 2 undefined on input line
+ 52.
+
+
+Package natbib Warning: Citation `Hawkins1984' on page 2 undefined on input lin
+e 52.
+
+
+Package natbib Warning: Citation `Wetterer1996' on page 2 undefined on input li
+ne 52.
+
+
+Package natbib Warning: Citation `Sommer-Larsen1987' on page 2 undefined on inp
+ut line 52.
+
+
+Package natbib Warning: Citation `Sluis1998' on page 2 undefined on input line 
+52.
+
+
+Package natbib Warning: Citation `Soubiran1993' on page 2 undefined on input li
+ne 52.
+
+
+Package natbib Warning: Citation `Gould1998' on page 2 undefined on input line 
+52.
+
+Missing character: There is no â in font cmr8!
+Missing character: There is no ˆ in font cmr8!
+Missing character: There is no ’ in font cmr8!
+
+Package natbib Warning: Citation `Saha1985' on page 2 undefined on input line 5
+2.
+
+
+Package natbib Warning: Citation `Robin2000' on page 2 undefined on input line 
+54.
+
+
+Package natbib Warning: Citation `Siegel2002' on page 2 undefined on input line
+ 54.
+
+
+Package natbib Warning: Citation `Propris2010' on page 2 undefined on input lin
+e 54.
+
+
+Package natbib Warning: Citation `Sesar2011' on page 2 undefined on input line 
+54.
+
+
+Package natbib Warning: Citation `Einasto1989' on page 2 undefined on input lin
+e 54.
+
+
+Package natbib Warning: Citation `Deason2011' on page 2 undefined on input line
+ 54.
+
+
+Package natbib Warning: Citation `Ahn2012' on page 2 undefined on input line 54
+.
+
+
+Package natbib Warning: Citation `Deason2014' on page 2 undefined on input line
+ 54.
+
+[2]
+
+Package natbib Warning: Citation `Preston1991' on page 3 undefined on input lin
+e 56.
+
+
+Package natbib Warning: Citation `Sluis1998' on page 3 undefined on input line 
+56.
+
+
+Package natbib Warning: Citation `Sesar2011' on page 3 undefined on input line 
+56.
+
+
+Package natbib Warning: Citation `Deason2011' on page 3 undefined on input line
+ 56.
+
+
+Package natbib Warning: Citation `Bell08' on page 3 undefined on input line 59.
+
+
+
+Package natbib Warning: Citation `Xue2011' on page 3 undefined on input line 59
+.
+
+
+Package natbib Warning: Citation `Xue2014' on page 3 undefined on input line 61
+.
+
+
+Package natbib Warning: Citation `Yanny2009b' on page 3 undefined on input line
+ 61.
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 66.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
+
+
+Package natbib Warning: Citation `York2000' on page 3 undefined on input line 7
+2.
+
+
+Package natbib Warning: Citation `Fukugita1996' on page 3 undefined on input li
+ne 72.
+
+
+Package natbib Warning: Citation `Gunn1998' on page 3 undefined on input line 7
+2.
+
+
+Package natbib Warning: Citation `Stoughton2002' on page 3 undefined on input l
+ine 72.
+
+
+Package natbib Warning: Citation `Pier2003' on page 3 undefined on input line 7
+2.
+
+
+Package natbib Warning: Citation `Eisenstein2011' on page 3 undefined on input 
+line 72.
+
+
+Package natbib Warning: Citation `Yanny2009b' on page 3 undefined on input line
+ 73.
+
+[3] [4]
+
+Package natbib Warning: Citation `Rix2013' on page 5 undefined on input line 83
+.
+
+
+Package natbib Warning: Citation `Bovy2012' on page 5 undefined on input line 8
+4.
+
+
+Package natbib Warning: Citation `Rix2013' on page 5 undefined on input line 84
+.
+
+
+Package natbib Warning: Citation `Lee2008a' on page 5 undefined on input line 8
+6.
+
+
+Package natbib Warning: Citation `Lee2008b' on page 5 undefined on input line 8
+6.
+
+
+Package natbib Warning: Citation `Lee2011' on page 5 undefined on input line 86
+.
+
+[5]
+
+Package natbib Warning: Citation `Bovy2012' on page 6 undefined on input line 9
+8.
+
+
+Package natbib Warning: Citation `Rix2013' on page 6 undefined on input line 98
+.
+
+
+Overfull \hbox (131.38828pt too wide) in alignment at lines 104--106
+ [][][] []
+ []
+
+
+Overfull \hbox (29.77148pt too wide) detected at line 113
+\OT1/cmr/m/n/12 p(M[]) \OMS/cmsy/m/n/12 / []
+ []
+
+[6]
+Overfull \hbox (33.21562pt too wide) detected at line 119
+\OT1/cmr/m/n/12 p([]) \OMS/cmsy/m/n/12 / []
+ []
+
+
+Overfull \hbox (64.06451pt too wide) detected at line 126
+\OT1/cmr/m/n/12 S(l[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 b[]) = []
+ []
+
+
+Overfull \hbox (108.87827pt too wide) detected at line 133
+\OT1/cmr/m/n/12 S(m([]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 M[])\OML/cmm/m/it/12 ;
+ \OT1/cmr/m/n/12 c(M[]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )) \OMS/cmsy/m/n/12 
+/ []
+ []
+
+
+Package natbib Warning: Citation `Bovy2012' on page 7 undefined on input line 1
+34.
+
+
+Package natbib Warning: Citation `Foreman2013' on page 7 undefined on input lin
+e 143.
+
+
+Package natbib Warning: Citation `Einasto1989' on page 7 undefined on input lin
+e 148.
+
+
+Package natbib Warning: Citation `Sersic1963' on page 7 undefined on input line
+ 148.
+
+
+Package natbib Warning: Citation `Einasto1989' on page 7 undefined on input lin
+e 148.
+
+
+Package natbib Warning: Citation `Merritt2006' on page 7 undefined on input lin
+e 148.
+
+
+Package natbib Warning: Citation `Graham2006' on page 7 undefined on input line
+ 148.
+
+
+Package natbib Warning: Citation `Navarro2010' on page 7 undefined on input lin
+e 148.
+
+
+Package natbib Warning: Citation `Sesar2011' on page 7 undefined on input line 
+148.
+
+
+Package natbib Warning: Citation `Deason2011' on page 7 undefined on input line
+ 148.
+
+
+Package natbib Warning: Citation `Merritt2006' on page 7 undefined on input lin
+e 148.
+
+[7]
+
+Package natbib Warning: Citation `Saha1985' on page 8 undefined on input line 1
+63.
+
+
+Package natbib Warning: Citation `Sesar2011' on page 8 undefined on input line 
+163.
+
+
+Package natbib Warning: Citation `Deason2011' on page 8 undefined on input line
+ 163.
+
+
+Package natbib Warning: Citation `Deason2014' on page 8 undefined on input line
+ 163.
+
+
+Package natbib Warning: Citation `Deason2011' on page 8 undefined on input line
+ 163.
+
+[8]
+
+Package natbib Warning: Citation `Deason2014' on page 9 undefined on input line
+ 169.
+
+[9]
+
+Package natbib Warning: Citation `Preston1991' on page 10 undefined on input li
+ne 179.
+
+
+Package natbib Warning: Citation `Sluis1998' on page 10 undefined on input line
+ 191.
+
+[10] [11]
+
+Package natbib Warning: Citation `Sesar2011' on page 12 undefined on input line
+ 210.
+
+
+Package natbib Warning: Citation `Deason2011' on page 12 undefined on input lin
+e 210.
+
+
+Package natbib Warning: Citation `Preston1991' on page 12 undefined on input li
+ne 210.
+
+
+Package natbib Warning: Citation `Sluis1998' on page 12 undefined on input line
+ 210.
+
+
+Package natbib Warning: Citation `Sesar2011' on page 12 undefined on input line
+ 210.
+
+
+Package natbib Warning: Citation `Deason2011' on page 12 undefined on input lin
+e 210.
+
+
+Package natbib Warning: Citation `Sesar2011' on page 12 undefined on input line
+ 212.
+
+
+Package natbib Warning: Citation `Deason2011' on page 12 undefined on input lin
+e 212.
+
+
+Package natbib Warning: Citation `Sesar2011' on page 12 undefined on input line
+ 212.
+
+
+Package natbib Warning: Citation `Deason2011' on page 12 undefined on input lin
+e 212.
+
+
+Package natbib Warning: Citation `Deason2014' on page 12 undefined on input lin
+e 212.
+
+
+Package natbib Warning: Citation `Deason2011' on page 12 undefined on input lin
+e 214.
+
+
+Package natbib Warning: Citation `Deason2014' on page 12 undefined on input lin
+e 214.
+
+
+Package natbib Warning: Citation `Deason2011' on page 12 undefined on input lin
+e 214.
+
+
+Package natbib Warning: Citation `Deason2014' on page 12 undefined on input lin
+e 214.
+
+[12]
+No file halodensityprofile_v1.bbl.
+[13] <skymap_lkg.png, id=61, 578.16pt x 433.62pt>
+File: skymap_lkg.png Graphic file (type png)
+ <use skymap_lkg.png>
+Package pdftex.def Info: skymap_lkg.png used on input line 262.
+(pdftex.def)             Requested size: 234.87692pt x 182.12578pt.
+
+<xz_lkg.png, id=63, 578.16pt x 433.62pt>
+File: xz_lkg.png Graphic file (type png)
+ <use xz_lkg.png>
+Package pdftex.def Info: xz_lkg.png used on input line 263.
+(pdftex.def)             Requested size: 234.87692pt x 182.12578pt.
+
+<rgcfeh_lkg.png, id=64, 578.16pt x 433.62pt>
+File: rgcfeh_lkg.png Graphic file (type png)
+ <use rgcfeh_lkg.png>
+Package pdftex.def Info: rgcfeh_lkg.png used on input line 264.
+(pdftex.def)             Requested size: 234.87692pt x 182.12578pt.
+
+<xy_lkg.png, id=65, 578.16pt x 433.62pt>
+File: xy_lkg.png Graphic file (type png)
+ <use xy_lkg.png>
+Package pdftex.def Info: xy_lkg.png used on input line 265.
+(pdftex.def)             Requested size: 234.87692pt x 182.12578pt.
+
+Overfull \hbox (2.60994pt too wide) in paragraph at lines 262--266
+[][] []
+ []
+
+
+Overfull \hbox (2.60994pt too wide) in paragraph at lines 262--266
+[] [] 
+ []
+
+Package epstopdf Info: Source file: <gmrvsr0_lctarget.eps>
+(epstopdf)                    date: 2014-12-09 08:02:41
+(epstopdf)                    size: 31108 bytes
+(epstopdf)             Output file: <gmrvsr0_lctarget-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-26 06:00:33
+(epstopdf)                    size: 12736 bytes
+(epstopdf)             Command: <repstopdf --outfile=gmrvsr0_lctarget-eps-conve
+rted-to.pdf gmrvsr0_lctarget.eps>
+(epstopdf)             \includegraphics on input line 273.
+Package epstopdf Info: Output file is already uptodate.
+<gmrvsr0_lctarget-eps-converted-to.pdf, id=66, 505.89pt x 361.35pt>
+File: gmrvsr0_lctarget-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gmrvsr0_lctarget-eps-converted-to.pdf>
+Package pdftex.def Info: gmrvsr0_lctarget-eps-converted-to.pdf used on input li
+ne 273.
+(pdftex.def)             Requested size: 225.47928pt x 182.12466pt.
+Package epstopdf Info: Source file: <gmrvsumg_lctarget.eps>
+(epstopdf)                    date: 2014-12-09 08:02:41
+(epstopdf)                    size: 34055 bytes
+(epstopdf)             Output file: <gmrvsumg_lctarget-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-26 06:00:34
+(epstopdf)                    size: 13914 bytes
+(epstopdf)             Command: <repstopdf --outfile=gmrvsumg_lctarget-eps-conv
+erted-to.pdf gmrvsumg_lctarget.eps>
+(epstopdf)             \includegraphics on input line 274.
+Package epstopdf Info: Output file is already uptodate.
+
+<gmrvsumg_lctarget-eps-converted-to.pdf, id=67, 505.89pt x 361.35pt>
+File: gmrvsumg_lctarget-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gmrvsumg_lctarget-eps-converted-to.pdf>
+Package pdftex.def Info: gmrvsumg_lctarget-eps-converted-to.pdf used on input l
+ine 274.
+(pdftex.def)             Requested size: 225.47928pt x 182.12466pt.
+Package epstopdf Info: Source file: <gmrvslcolor_lctarget.eps>
+(epstopdf)                    date: 2014-12-09 08:02:41
+(epstopdf)                    size: 34332 bytes
+(epstopdf)             Output file: <gmrvslcolor_lctarget-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2014-12-26 06:00:35
+(epstopdf)                    size: 13875 bytes
+(epstopdf)             Command: <repstopdf --outfile=gmrvslcolor_lctarget-eps-c
+onverted-to.pdf gmrvslcolor_lctarget.eps>
+(epstopdf)             \includegraphics on input line 275.
+Package epstopdf Info: Output file is already uptodate.
+
+<gmrvslcolor_lctarget-eps-converted-to.pdf, id=68, 505.89pt x 361.35pt>
+File: gmrvslcolor_lctarget-eps-converted-to.pdf Graphic file (type pdf)
+
+<use gmrvslcolor_lctarget-eps-converted-to.pdf>
+Package pdftex.def Info: gmrvslcolor_lctarget-eps-converted-to.pdf used on inpu
+t line 275.
+(pdftex.def)             Requested size: 225.47928pt x 182.12466pt.
+Package epstopdf Info: Source file: <umgvsrmi_lctarget.eps>
+(epstopdf)                    date: 2014-12-09 08:02:41
+(epstopdf)                    size: 36413 bytes
+(epstopdf)             Output file: <umgvsrmi_lctarget-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-26 06:00:37
+(epstopdf)                    size: 14625 bytes
+(epstopdf)             Command: <repstopdf --outfile=umgvsrmi_lctarget-eps-conv
+erted-to.pdf umgvsrmi_lctarget.eps>
+(epstopdf)             \includegraphics on input line 276.
+Package epstopdf Info: Output file is already uptodate.
+
+<umgvsrmi_lctarget-eps-converted-to.pdf, id=69, 505.89pt x 361.35pt>
+File: umgvsrmi_lctarget-eps-converted-to.pdf Graphic file (type pdf)
+
+<use umgvsrmi_lctarget-eps-converted-to.pdf>
+Package pdftex.def Info: umgvsrmi_lctarget-eps-converted-to.pdf used on input l
+ine 276.
+(pdftex.def)             Requested size: 225.47928pt x 182.12466pt.
+
+<sfxzlkg.png, id=70, 744.7825pt x 451.6875pt>
+File: sfxzlkg.png Graphic file (type png)
+ <use sfxzlkg.png>
+Package pdftex.def Info: sfxzlkg.png used on input line 284.
+(pdftex.def)             Requested size: 225.48207pt x 182.12604pt.
+
+<sfxylkg.png, id=71, 744.7825pt x 451.6875pt>
+File: sfxylkg.png Graphic file (type png)
+ <use sfxylkg.png>
+Package pdftex.def Info: sfxylkg.png used on input line 285.
+(pdftex.def)             Requested size: 225.48207pt x 182.12604pt.
+
+<triangleeinasto.png, id=72, 527.571pt x 527.571pt>
+File: triangleeinasto.png Graphic file (type png)
+ <use triangleeinasto.png>
+Package pdftex.def Info: triangleeinasto.png used on input line 292.
+(pdftex.def)             Requested size: 469.75499pt x 469.75407pt.
+
+<pdm_hptest_allmodels.png, id=73, 427.1157pt x 324.7332pt>
+File: pdm_hptest_allmodels.png Graphic file (type png)
+
+<use pdm_hptest_allmodels.png>
+Package pdftex.def Info: pdm_hptest_allmodels.png used on input line 298.
+(pdftex.def)             Requested size: 469.75499pt x 357.16798pt.
+ <trianglebpl.png, id=74, 679.338pt x 679.338pt>
+File: trianglebpl.png Graphic file (type png)
+
+<use trianglebpl.png>
+Package pdftex.def Info: trianglebpl.png used on input line 305.
+(pdftex.def)             Requested size: 469.75499pt x 469.76994pt.
+Package epstopdf Info: Source file: <doublehp_reffqfehbin_Nov12014_einasto_pts9
+6_fixn_contour.eps>
+(epstopdf)                    date: 2014-12-10 17:47:29
+(epstopdf)                    size: 8870 bytes
+(epstopdf)             Output file: <doublehp_reffqfehbin_Nov12014_einasto_pts9
+6_fixn_contour-eps-converted-to.pdf>
+(epstopdf)                    date: 2014-12-26 06:00:38
+(epstopdf)                    size: 8113 bytes
+(epstopdf)             Command: <repstopdf --outfile=doublehp_reffqfehbin_Nov12
+014_einasto_pts96_fixn_contour-eps-converted-to.pdf doublehp_reffqfehbin_Nov120
+14_einasto_pts96_fixn_contour.eps>
+(epstopdf)             \includegraphics on input line 312.
+Package epstopdf Info: Output file is already uptodate.
+
+<doublehp_reffqfehbin_Nov12014_einasto_pts96_fixn_contour-eps-converted-to.pdf,
+ id=75, 505.89pt x 361.35pt>
+File: doublehp_reffqfehbin_Nov12014_einasto_pts96_fixn_contour-eps-converted-to
+.pdf Graphic file (type pdf)
+
+<use doublehp_reffqfehbin_Nov12014_einasto_pts96_fixn_contour-eps-converted-to.
+pdf>
+Package pdftex.def Info: doublehp_reffqfehbin_Nov12014_einasto_pts96_fixn_conto
+ur-eps-converted-to.pdf used on input line 312.
+(pdftex.def)             Requested size: 469.75499pt x 335.54477pt.
+ <q_variation.png, id=76, 578.16pt x 433.62pt>
+File: q_variation.png Graphic file (type png)
+ <use q_variation.png>
+Package pdftex.def Info: q_variation.png used on input line 319.
+(pdftex.def)             Requested size: 469.75499pt x 352.31538pt.
+
+<density_45d_compareqv.png, id=77, 578.16pt x 433.62pt>
+File: density_45d_compareqv.png Graphic file (type png)
+
+<use density_45d_compareqv.png>
+Package pdftex.def Info: density_45d_compareqv.png used on input line 326.
+(pdftex.def)             Requested size: 422.77669pt x 273.18866pt.
+
+<density_45d_mcmc.png, id=78, 578.16pt x 433.62pt>
+File: density_45d_mcmc.png Graphic file (type png)
+ <use density_45d_mcmc.png>
+Package pdftex.def Info: density_45d_mcmc.png used on input line 327.
+(pdftex.def)             Requested size: 422.77669pt x 273.18866pt.
+
+
+LaTeX Warning: Float too large for page by 19.25862pt on input line 330.
+
+<combinexueanddeason.png, id=79, 1027.84pt x 770.88pt>
+File: combinexueanddeason.png Graphic file (type png)
+
+<use combinexueanddeason.png>
+Package pdftex.def Info: combinexueanddeason.png used on input line 334.
+(pdftex.def)             Requested size: 469.75499pt x 352.31538pt.
+
+
+Package natbib Warning: Citation `Deason2011' on page 14 undefined on input lin
+e 335.
+
+
+Package natbib Warning: Citation `Deason2014' on page 14 undefined on input lin
+e 335.
+
+
+Package natbib Warning: Citation `Deason2011' on page 14 undefined on input lin
+e 335.
+
+
+Package natbib Warning: Citation `Deason2014' on page 14 undefined on input lin
+e 335.
+
+
+Package natbib Warning: There were undefined citations.
+
+[14 <./skymap_lkg.png> <./xz_lkg.png> <./rgcfeh_lkg.png> <./xy_lkg.png>]
+[15 <./gmrvsr0_lctarget-eps-converted-to.pdf> <./gmrvsumg_lctarget-eps-converte
+d-to.pdf> <./gmrvslcolor_lctarget-eps-converted-to.pdf> <./umgvsrmi_lctarget-ep
+s-converted-to.pdf>] [16 <./sfxzlkg.png> <./sfxylkg.png>] [17 <./triangleeinast
+o.png>] [18 <./pdm_hptest_allmodels.png>] [19 <./trianglebpl.png>] [20 <./doubl
+ehp_reffqfehbin_Nov12014_einasto_pts96_fixn_contour-eps-converted-to.pdf>]
+[21 <./q_variation.png>] [22 <./density_45d_compareqv.png> <./density_45d_mcmc.
+png>] [23 <./combinexueanddeason.png>] (./halodensityprofile_v1.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5078 strings out of 493308
+ 70590 string characters out of 6137817
+ 148965 words of memory out of 5000000
+ 8397 multiletter control sequences out of 15000+600000
+ 16444 words of font info for 69 fonts, out of 8000000 for 9000
+ 957 hyphenation exceptions out of 8191
+ 38i,10n,38p,2068b,310s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></u
+sr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr
+/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/l
+ocal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/loc
+al/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local
+/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/te
+xlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texli
+ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/
+2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2
+013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2013/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/t
+exmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/rsfs/rsfs10.pfb>
+Output written on halodensityprofile_v1.pdf (23 pages, 2050381 bytes).
+PDF statistics:
+ 211 PDF objects out of 1000 (max. 8388607)
+ 129 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+
