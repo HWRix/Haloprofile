@@ -68,34 +68,45 @@ In the next section, we lay out the properties and the selection function of the
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{SEGUE-2 K giants and their selection function}
-\subsection{Data}
+%\subsection{Data}
 The Sloan Digital Sky Survey\citep[SDSS;][]{York2000} is an imaging and spectroscopic survey covering roughly a quarter of the sky, which has both $ugriz$ imaging \citep{Fukugita1996, Gunn1998, Stoughton2002, Pier2003, Eisenstein2011} and low resolution spectra ($\lambda/\Delta \lambda \sim 2000$). SEGUE is one of
 the key projects and has two phases named SEGUE-1 and SEGUE-2, which aim to explore the nature of stellar populations from 0.5 kpc to 100 kpc\citep[][and Rockosi et al. in prep.]{Yanny2009b}. The original SEGUE-1 obtained spectra of 240,000 stars with $\rm g=14-20$ to investigate Milky Way structure, and SEGUE-2 spectroscopically observed around 120,000 stars, focusing on the in situ stellar halo of the Galaxy.
 
+
+To understand the underlying spatial distribution of the K giants on the basis of this sample, we need understand (and account for) the probability that a star of a given luminosity, color and metallicity ends up in the sample, given its direction and distance.  
+Spectroscopic surveys of the Milky Way are inevitably  affected by such selection effects (cf. \citet{Rix2013}),
+ often referred to as ``selection biases'', which are due to a set of objective and repeatable decisions of what to observe,
+  necessitated by the survey design. In particular, only a small fraction of the sky was covered by SEGUE plates, 
+  and for most plates only a fraction of stars that satisfy the photometric selection criteria could be targetted with fibers. Finally, not all stars targetted yield spectra good enough to result in a catalog entry, i.e. had S/N high enough to
+  verify that they are giants and yield a  metallicity. \citet{Bovy2012} and \citet{Rix2013} spelled out how to incorporate this selection function in fitting a parameterized model for the stellar density and we follow their approach in this and the next Section.
+  
 Both the SEGUE-1and SEGUE-2 surveys targeted halo giant star candidates, using a variety of photometric and proper motions cuts.  About 90\% of the final K-giant sample came from objects observed as \textit{l} -color K-giant targets. 
 The \textit{l}-color is a photometric metallicity indicator for stars in the color range $0.5 < (g-r)_0 < 0.8$, designed to select metal-poor K giants\footnote{https://www.sdss3.org/dr9/algorithms/segue\_target\_selection.php\#S2\_table.}.
-Only SEGUE-2 adopted a consistent color-magnitude cut to select K giants throughout its entire survey: $15.5<g_0<18.5$, $r_0>15$, $0.7<(u-g)_0<3$, $0.5<(g-r)_0<0.8$, $0.1<(r-i)_0<0.6$, and $l-color>0.09$.
+Only SEGUE-2 adopted a consistent color-magnitude cut to select K giants throughout its entire survey: $15.5<g_0<18.5$, $r_0>15$, $0.7<(u-g)_0<3$, $0.5<(g-r)_0<0.8$, $0.1<(r-i)_0<0.6$, and $l-color>0.09$, and we restict our analysis to this category. We also insist that \textit{l}-color K giant candidates have good proper motion measurements with $\le \rm 11~masyr^{-1}$.
 
-As a simple well-defined selection function is paramount in the present analysis, we restrict our sample to only SEGUE-2 
-\textit{l} -color K giants that have distance estimates from \citet{Xue2014}.  To eliminate the contamination from disk component, we cull K giants with $\rm \feh>-1.2$ and $\rm |z|<4~$kpc, which leads to a final sample of $\rm 2413$ l-color K giants. Figure~\ref{f:fkgdistribution} illustrate the basic sample properties:  its sky coverage and spatial distribution without accounting for the selection function, and the metallicity distribution along with the distances from \citet{Xue2014}.  The stars' distribution reflects the pencil-beam pattern of the SEGUE survey; their galactocentric distances range  from $\rm 7~$kpc to $\rm 85~$kpc; their mean metallicity is $\rm -1.75~$dex, with some being as metal-poor as $\rm -3.5$.
+But as broadband photometry is a poor main-sequence giant discriminator, not all stars targeted under the above criteria will be giants.  The subsequent identification of K-giants is based solely on their spectral properties.  As described in \citet{Xue2014}, this requires spectra that have good Mg index and stellar atmospheric parameters determined by the SEGUE Stellar Parameter Pipeline\citep[SSPP;][]{Lee2008a,Lee2008b,Lee2011}, but have no strong G band.
+We can now compare the color-magnitude distribution these spectroscopically confirmed K giants 
+to the the analogous distribution of the photometric \textit{l} -color K giant candidates.
+Figure~\ref{f:flkgbias} shows these two distribution (as contours and gray-scale, respectively), summed over all SEGUE-2 plates. As in particular the marginalized histograms at the sides of the panels show, these two distributions are nearly indistinguishable: the chance of a photometric candidate being confirmed as a K-giant is independent of color and magnitude. This simplifies the subsequent analysis and is testament to SEGUE-2's consistency of target selection, targetting and spectral analysis. 
 
- 
-
-\subsection{The selection function of SEGUE-2 l-color K-type stars}
-
-To understand the underlying spatial distribution of the K giants on the basis of the SEGUE sample, we need understand (and account for) the probability of a given luminosity, color and metallicity to end up in the sample, given its direction and distance. 
-
-Spectroscopic surveys of the Milky Way are inevitabley  affected by such selection effects \citet{Rix2013}, often referred to as ``selection biases'', which are due to a set of objective and repeatable decisions of what to observe, necessitated by the survey design. Only a small fraction of the sky was covered by SEGUE plates, and for most plates only a fraction of stars that satisfy the photometric selection criteria may be targetted with fibers. Finally, not all stars targetted yield spectra good enough to result in a catalog entry, with a giant classification and a metallicity. Accounting for the pencil-beam nature of SEGUE survey, we will analyze the selection fraction plate by plate (see \S2.2). 
-\citet{Bovy2012} and \citet{Rix2013} spelled out how to incorporate this selection function in fitting a parameterized model for the stellar denisty; we follow here their approach.  
-
- We treat the spectra that have good Mg index and stellar atmospheric parameters determined by the SEGUE Stellar Parameter Pipeline\citep[SSPP;][]{Lee2008a,Lee2008b,Lee2011}, but have no strong G band, as successfully observed spectra, because these properties are necessary for giant classification. The spectrum is the sole tool to classify a star as a giant or not, so it is impossible to know which stars are giants in the photometric sample. Fortunately, the sample of SEGUE K-type stars was obtained by uniformly sampling in the extinction-corrected color-magnitude boxes so that the giants to non-giants ratio is consistent from photometric sample to spectroscopic sample. In this way, the selection function of K-type stars reflects directly that of K giants.
-
-In the area of each SEGUE-2 plate, we select all potential targets that satisfy the selection criteria of SEGUE-2 l-color K giants and have good proper motion less than $\rm 11~masyr^{-1}$. To infer the dependence on color and apparent magnitude of the selection function, we look at the distribution of the photometric K-giant candidates in color-magnitude space with the distribution of the successfully spectroscopic sample overlaid for all SEGUE-2 plates together. Figure~\ref{f:flkgbias} shows that the distribution of objects with successful spectroscopic parameters is almost indistinguishable in color and magnitude from that of the photometrically selected l-color K-giant candidates.
-
-Our model for the SEGUE-2 K-giant candidates selection function is independent of colors and magnitudes, but plate-dependent. For each plate we define the number of the ``successful'' spectroscopic K-giant targets as $N_{sp}$, and $N_{ph}$ as the number of photometric K-giant targets. Thus, the plate-dependent selection function (shown as Figure~\ref{f:flkgsf}) is given by
+While the selection function is constant with apparent magnitudes and de-reddened colors, it varies from plate to plate, in particular with the Galactic latitude of the plate.   Given the pencil-beam nature of SEGUE survey, it makes sense to specify the selection fraction plate by plate. 
+ For each plate we define the number of spectroscopically confirmed K giant as $N_{sp}$, and the number of \textit{l} -color K giant candidates in the plate (both those that were targetted, and those that were not) as $N_{ph}$. Thus, the plate-dependent selection function (shown as Figure~\ref{f:flkgsf}) is given by
 \begin{eqnarray}
 S(plate) &=& \frac{N_{sp}}{N_{ph}}   
  \end{eqnarray}
+
+As we want to analyze the spatial distribution, we also restrict our sample to SEGUE-2 
+\textit{l} -color K giants that have sensible distance estimates from \citet{Xue2014}. To eliminate the contamination from disk
+component, we cull K giants with $\rm \feh>-1.2$ and $\rm |z|<4~$kpc, which leads to a final sample of $\rm 2413$
+l-color K giants. Figure~\ref{f:fkgdistribution} illustrate the basic sample properties:  its sky coverage and spatial 
+distribution without accounting for the selection function, and the metallicity distribution along with the distances
+from \citet{Xue2014}.  The stars' distribution reflects the pencil-beam pattern of the SEGUE survey; their galactocentric
+distances range  from $\rm 7~$kpc to $\rm 85~$kpc; their mean metallicity is $\rm -1.75~$dex, with some being 
+as metal-poor as $\rm -3.5$. 
+%\subsection{The selection function of SEGUE-2 l-color K-type stars}
+
+
+
 
 \section{Density profile modeling approach}
 Due to the ``selection biases'' of the spectroscopic survey, the observed star counts of the spectroscopic sample can not reflect the underlying stellar distribution. Therefore, to explore the underlying stellar distribution, we must account for 4 effects: (1) the plate-dependent selection fraction of stars with spectra (see Figures~\ref{f:flkgbias} and ~\ref{f:flkgsf} ), (2) the photometric distances that depend on color and $\rm \feh$, (3) the priors of metallicities and luminosities, and (4) the pencil-beam nature of the SEGUE survey, shown as the sky map of l-color K giants in Figure\ref{f:fkgdistribution}. 
