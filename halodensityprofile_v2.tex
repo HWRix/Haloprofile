@@ -5,7 +5,7 @@
 \usepackage{graphicx,amsmath,color,natbib,soul,morefloats,longtable,mathrsfs,amsfonts,amssymb,tabularx,rotating,threeparttable,booktabs,caption,fixltx2e}
 \bibpunct{(}{)}{;}{a}{}{,}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newcommand{\myemail}{xuexx@nao.cas.cn}
+\newcommand{\myemail}{xuexx@mpia.de}
 \newcommand{\DM}{\mathcal{DM}}
 \newcommand{\feh}{{\rm [Fe/H]}}
 \newcommand{\m}{{\it m}}
@@ -30,7 +30,7 @@ We present the density profile of SEGUE-2 spectroscopic halo K giants by conside
 \end{abstract}
 \keywords{galaxies: individual(Milky Way) -- Galaxy: halo -- Galaxy: stellar content -- stars: K giants}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Introduction}
+\section{Introduction}\label{sec:Introduction}
 The Milky Way's extended stellar halo contains only a small fraction ($\lesssim 1\%$) of the Galactic stars, but is an important diagnostic of the Milky Way's formation and dark matter distribution. The position-kinematics-abundance substructure in the stellar halo reflects the Galactic formation history, whether halo stars were born \textit{in situ} or are disrupted satellite debris. By now, individual stars are the by far the largest sample of
 kinematic tracers with
 $10~\mathrm{kpc}\gtrsim \rgc\lesssim 100~\mathrm{kpc}$ (as opposed to globular clusters or satellite galaxies), and are hence the best tracers to determine the mass profile of Milky Way's dark matter halo. It is obvious that kinematic tracer samples should have sizeable membership, cover a wide radial range at good individual distances. But the spatial distribution of the tracers, in particular their radial profile, must be well understood to use such tracers in dynamical inferences. This is perhaps most obvious when considering the Jeans (1915) Equation, even in its simplest version, spherical and isotropic: the tracer
@@ -45,10 +45,10 @@ Position-velocity maps of the stellar halo beyond $\sim 20~$kpc, practically req
 post main-sequence (MS) stars, is turn-off or other MS stars are too faint for large-sample spectroscopy. RR Lyraes and BHBs have repeatedly been used as tracers to study the halo density profile, because they have precise distances and are bright enough to be observed at radii out to $\rm \sim 100~$kpc (e.g. X08, Deason, etc..). Yet, such stars, most prevalent in particularly old and metal-poor populations\citep{Bell08, Xue2011} are known to have a different structure and profile from e.g. RGB stars in the outer halo, that are representative of all halo populations.
 K-giants, as tracers common to all relevant halo sub-populations are traces that can both reflect the (mass-weighted) sub-structure, reflecting the formation history, and to probel the halo mass. To this end, it is crucial to construct the halo shape and radial profule in K-giants. \citet{Xue2014} presents a catalog of K giants with unbiased distance estimates, metallicities, velocities and photometric information, drawn from the Sloan Extension for Galactic Understanding and Exploration\citep[][SEGUE]{Yanny2009b}, which contains $\rm \sim 300$ stars beyond $\rm 50~$kpc.
 For K giants observed in SEGUE-2, one can understand and model their selection function well/ Therefore, it is possible to determine the halo profile and shape in theses tracers, which is the main goal of the paper here.
-Specifically, we set out to describe stellar halo distribution, presuming the density is stratified on (oblate) ellipsoids, with a radial profile from $\rm 10-80~$kpc that can be characterized by simple  functional forms (Einasto profile and broken power-law). We also explore the metallicity dependence of the shape and radial profile of the stellar halo.
+Specifically, we set out to describe stellar halo distribution, presuming the density is stratified on (oblate) spheroids, with a radial profile from $\rm 10-80~$kpc that can be characterized by simple  functional forms (Einasto profile and broken power-law). We also explore the metallicity dependence of the shape and radial profile of the stellar halo.
 In the next section, we lay out the properties and the selection function of the SEGUE K giants. In \S 3, we present the method of fitting a series of parameterized models to SEGUE-2 K giants, explicitly and rigorously considering the selection function. This step is key in obtaining accurate radial profiles. The results for the stellar halo's radial profile and flattening are presented in \S 4, along with an illustration of the metallicity dependence of the shape and radial profile . Finally, \S 5 discusses the comparison between our results and previous work, and implications for dynamical models.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{SEGUE-2 K giants and their selection function}
+\section{SEGUE-2 K giants and their selection function}\label{sec:Sample_and_SelectionFunction}
 %\subsection{Data}
 The Sloan Digital Sky Survey\citep[SDSS;][]{York2000} is an imaging and spectroscopic survey covering roughly a quarter of the sky, which has both $ugriz$ imaging \citep{Fukugita1996, Gunn1998, Stoughton2002, Pier2003, Eisenstein2011} and low resolution spectra ($\lambda/\Delta \lambda \sim 2000$). SEGUE is one of
 the key projects and has two phases named SEGUE-1 and SEGUE-2, which aim to explore the nature of stellar populations from 0.5 kpc to 100 kpc\citep[][and Rockosi et al. in prep.]{Yanny2009b}. The original SEGUE-1 obtained spectra of 240,000 stars with $\rm g=14-20$ to investigate Milky Way structure, and SEGUE-2 spectroscopically observed around 120,000 stars, focusing on the in situ stellar halo of the Galaxy.
@@ -81,13 +81,13 @@ as metal-poor as $\rm -3.5$.
 %\subsection{The selection function of SEGUE-2 l-color K-type stars}
 
 
-\section{Modelling the Stellar Halo Density Distribution}
+\section{Modelling the Stellar Halo Density Distribution}\label{sec:Modelling}
 
-We presume that the stellar halo distribution can be sensibly approximated by an ellipsoidal distribution with a parameterized radial profile and flattening. For this case we spell out a straightforward and rigorous approach to determine the posterior probability distributions for these \textit{halo parameters} in light of the above data, our knowledge of the SEGUE selection function (see Figures~\ref{f:flkgbias}, ~\ref{f:flkgsf} and ~\ref{f:fkgdistribution}), and astrophysical priors on the luminosity function of giants stars. 
+We presume that the stellar halo distribution can be sensibly approximated by a spheroidal distribution with a parameterized radial profile and flattening. For this case we spell out a straightforward and rigorous approach to determine the posterior probability distributions for these \textit{halo parameters} in light of the above data, our knowledge of the SEGUE selection function (see Figures~\ref{f:flkgbias}, ~\ref{f:flkgsf} and ~\ref{f:fkgdistribution}), and astrophysical priors on the luminosity function of giants stars. 
 
-\subsection{Functional Forms for the Radial Profile}
+\subsection{Functional Forms for the Radial Profile}\label{sec:RadialProfileFunctions}
 
-In this approach, the choice of one, or more, functional forms for the possible stellar density distribution is inevitable. The foremost goal of our analysis is to find the best axisymmetric approximation to the actual spatial distribution, to have a gross description of the halo structure and as input for simple dynamical models. Our basic assumptions, or restrictions, are that we assume 1) the stellar density to be stratified on (oblate) ellipsoids, 2) the radial profile to be simple or even smooth, and 3) the flattening to be constant or smoothly and monotonically varying. In light of the well-established sub-structure of the stellar these are obviously only approximation. 
+In this approach, the choice of one, or more, functional forms for the possible stellar density distribution is inevitable. The foremost goal of our analysis is to find the best axisymmetric approximation to the actual spatial distribution, to have a gross description of the halo structure and as input for simple dynamical models. Our basic assumptions, or restrictions, are that we assume 1) the stellar density to be stratified on (oblate) spheroids, 2) the radial profile to be simple or even smooth, and 3) the flattening to be constant or smoothly and monotonically varying. In light of the well-established sub-structure of the stellar these are obviously only approximation. 
 
 The first assumption implies that the stellar profile $\nu_*(x,y,z)$ is only a function of $r_q$,
 where 
@@ -113,7 +113,7 @@ In addition to the flattening and normalization, a (singly) broken power-law has
 $\alpha_{in}, \alpha_{out}, r_{break}$. Of course, this can be generalized to a multiply-broken
 power-law, by introducing an additional pair of $\bigl ( \alpha, r_{break} \bigr )$ (cf. \citet{Deason2014}).
 
-\subsection{Halo parameter estimates, explicitly including the Selection Function}
+\subsection{Halo parameter estimates, explicitly including the Selection Function}\label{sec:ParameterEstimates}
 
 For the parameter estimates, we essentially follow the approach of \citet{Bovy2012} (cf.  \citet{Rix2013}). 
 Since we have already good estimates of $\DM$ and $M_r$ for all objects in the sample (\citet{Xue2014}), we treat $(\DM,M_r,\feh,l,b)$ as the observables (rather than $(m_r,c,\feh,l,b)$, as it makes the fitting formalism more intuitive. However, the apparent magnitudes $m_r$ and (dereddened) colors $c$, will appear explicitly in the selection function.  We denote angular selection function as $S(l,b)\equiv S\bigl ( plate (l,b)\bigr )$ (Eq. 1), and the magnitude-color selection function by $S(m(\DM,M_r),c(M_r,\feh))$, expressed in terms of the "observables" above; we denote the priors on absolute magnitude and metallicity as
@@ -165,25 +165,26 @@ where the normalization $\rm c_\lambda$ is the integral over the volume in $\rm 
 This normalization integral is the most CPU time-consuming part of the parameter estimates; it can be computed efficiently using Gaussian quadrature rule. We adopt 48 transformation points (Question: are these 48 Gaussian points in each dimension?), and then the parameter-independent parts such as Jacobian term, priors of luminosity and metallicity and selection function can be pre-computed on a dense grid. We then vary the $p_H$ to sample the parameter PDF, using emcee\citep{Foreman2013}.
 
 
-\section{Results}
+\section{Results}\label{sec:Results}
 In this section, we present the results of applying the approach from \S 3 to the sample of \S 2. 
 We first focus on the radial profiles, fitting for a radially constant flattening, and taking halo giants of all metallicities. We then show how these results compare for subsamples of different metallicities, and explore radial variations of the flattening, and their impact on the radial profile estimate. 
 
-\subsection{Radial profile at constant flattening}
+\subsection{Radial profile at constant flattening}\label{sec:Results_RadialProfile}
 
-Figure~\ref{f:feinasto} presents the fit results for the Einasto profile, by showing the \textit{PDF}s of the three parameters: $\rm q=0.78\pm0.02,~n=2.2\pm0.3,~and ~r_{eff}=21\pm1~kpc$. To get a sense whether this best fit provides a sensible representation of our data, we show in Figure~\ref{f:fpdm}
-a comparison between the distribution of the actual $\DM$s of the stars in the sample and that predicted by the best-fit model. The distributions are summed over all survey directions in both cases, and the overall match is very good. 
+Figure~\ref{f:feinasto} presents the fit results for the Einasto profile,  showing the \textit{PDF}s of the three parameters: $r_{eff}=21\pm1~kpc$, $\rm q=0.78\pm0.02$, and $n=2.2\pm0.3$.
+To get a sense whether this best fit provides a sensible representation of our data, we compare
+ in Figure~\ref{f:fpdm} the distribution of the $\DM$s in the sample to that predicted by the best-fit model. The distributions are summed over all survey directions in both cases, and the overall match is very good. 
 
-Figure~\ref{f:fbpl} shows the analogous results for a (singly) broken power-law: an inner slope of $\rm \alpha_{in}=2.7\pm0.1$, an outer slope of $\rm \alpha_{out}=4.2\pm0.2$, and a break radius of
+Figure~\ref{f:fbpl} shows the analogous results for a broken power-law: we find an inner slope of $\rm \alpha_{in}=2.7\pm0.1$, an outer slope of $\rm \alpha_{out}=4.2\pm0.2$, and a break radius of
  $\rm r_{break}=30\pm3~$kpc, together with a flattening of $\rm q=0.78\pm0.02$. The flattening is consistent with that of the best-fit Einasto profile. The broken power-law profile also predicts a consistent $\rm p(\DM)$ to the observation (shown as Figure~\ref{f:fpdm}).
  
-As \citet{Deason2014} claimed much more rapid drop of the stellar density (in BHB stars) beyond $\rm 50~$kpc, we also fit a doubly-broken power-law with six free parameters $\rm \left(\alpha_{inner},~\alpha_{middle},~\alpha_{outer},~r_{break1},~r_{break2},~q\right)$. Here, $\rm \alpha_{inner}$, $\rm \alpha_{middle}$ and $\rm \alpha_{outer}$ are the power indexes within $\rm r_{break1}$, between $\rm r_{break1}$ and $\rm r_{break2}$, and beyond $\rm r_{break2}$ respectively, and $\rm q$ is the flattening. However, the K-giant sample provided no constraints on a second break radius, which means no evidence of strong drop beyond $\rm 50~$kpc. We find the best first break radius $\rm r_{break1}$ is at $\rm 30~$kpc, the inner slope $\rm \alpha_{inner}$ is $\rm 2.7$, the middle slope is equal to the outer slope ($\rm \alpha_{middle}~=~ \alpha_{outer}~=~4.2$), and the flattening $\rm q$ is still $\rm 0.78$.
+As \citet{Deason2014} claimed much more rapid drop of the stellar density (in BHB stars) beyond $\rm 50~$kpc, we also fit a doubly-broken power-law with parameters  ($\alpha_{inner},~\alpha_{middle}$,~$\alpha_{outer}$,~$r_{break1}$,~$r_{break2},~q$), that denote the three slopes and two break-radii; $\rm q$ is the flattening. However, our data provided no constraints on a second break radius, i.e. no evidence of strong drop beyond $\rm 50~$kpc. We find the best first break radius $\rm r_{break1}$ is at $\rm 30~$kpc, the inner slope $\rm \alpha_{inner}$ is $\rm 2.7$, the middle slope is equal to the outer slope ($\rm \alpha_{middle}~=~ \alpha_{outer}~=~4.2$), and the flattening $\rm q$ is still $\rm 0.78$.
 
-How these fits compare, e.g. in their logarithmic slopes as a function of radius, we discuss in
+How these fits using different functional forms compare, in particular in their logarithmic slopes as a function of radius, we discuss in
 Section \ref{sec:ModelComparison}{sec:ModelComparison}.
 
 
-\subsection{Metallicity-dependence of radial profile and flattening}
+\subsection{Metallicity-dependence of radial profile and flattening}\label{sec:Results_Flattening}
 
 As some parts of the halo have presumably formed 'in situ', while other parts were accreted frmo satellites, i.e. through different formation paths that may be reflected in their metallicities, 
  we may expect that the overall spatial structure of the halo depends on metallicity.
@@ -192,38 +193,77 @@ by metallicity \ into three almost equally size sub-samples. We then fit Einasto
 significantly flatter than the more metal-poor stars ($\rm q\sim0.85$).
 So, while the shape of the halo varies somewhat with metallicity, there is no significant overall metallicity gradientin the halo ($\ge 10$~kpc). 
 
-\subsection{Radial variation of halo flattening}
+\subsection{Radial variation of halo flattening}\label{sec:Results_FlatteningVariations}
 Previous work found the evidence for the increase of flattening with radii\citep{Preston1991}.
-{\bf: X-X, I don't understand the following statement. Pls. explain:}\textot{ We also find strong metallicity-dependence on the flattening by fitting to the Einasto profile with a constant flattening as described in \S 4.3, which we attribute to the increase of the flattening with the distances.}
+{\bf: X-X, I don't understand the following statement. Pls. explain:}\textit{ We also find strong metallicity-dependence on the flattening by fitting to the Einasto profile with a constant flattening as described in \S 4.3, which we attribute to the increase of the flattening with the distances.}
 
- In order to explore radial variation of stellar flattening as a function of radii, we substitute the following three expressions for $\rm q(r)$:
+The above fits were restricted to radially constant flattening $q$. As there is considerable evidence that at least the innermost part of the halo is quite flattened \citep{Carollo2010}, we explore how our sample can inform us about radial variations in the flattening of the stellar halo.  Instead of assuming $q=~const.~$, we fit the following three expressions for $\rm q(r)$:
 \begin{equation}
-\rm q\left(r\right)=q_{inf}-\left(q_{inf}-q_0\right)exp\left(1-\frac{\sqrt{r^2+r_0^2}}{r_0}\right)
+\rm q\left(r\right)=q_{inf}-\left(q_{inf}-q_0\right)exp\left(1-\frac{\sqrt{r^2+r_0^2}}{r_0}\right),
 \end{equation}
+where  $\rm q_0$ is the flattening at center, changing to $\rm q_{inf}$ at large radii, with $\rm r_0$ is the (here, exponential) scale radius, over which the change of flattening occurs. 
+
+Alternatively, we use a functional form that has been used by \citep{Osipkov79} and \citep{Merritt85} in a somewhat different context
 \begin{equation}
-\rm q\left(r\right)=\sqrt{q_0^2+\left(q_{inf}^2+q_0^2\right)\frac{r^2}{r^2+r_0^2}}
+\rm q\left(r\right)=\sqrt{q_0^2+\left(q_{inf}^2+q_0^2\right)\frac{r^2}{r^2+r_0^2}},
 \end{equation}
+and finally 
 \begin{equation}
 \rm q\left(r\right)=q_0\sqrt{\frac{r^2+r_0^2}{q_0^2r^2+r_0^2}}
 \end{equation}
-where $\rm q_{inf}$ is the flattening at $\rm r\rightarrow+\infty$, $\rm q_0$ is the flattening at center, and $\rm r_0$ is the scale radius, over which the change of flattening occurs. Equation (7) is our guess on the variation of flattening following an exponential distribution. Equation (8) is a Osipkov-Merritt(-like) flattening[need a reference, but I have not found it]. Equation (9) comes from \citet{Sluis1998}, so we name it as Sluis-Arnold flattening. We fit Einasto models with above three forms of varying flattening to the data and find small scale radii are favored ($\rm r_0 \sim 10~$kpc), with center flattening of about $\rm 0.3$. Figure~\ref{f:fpdm} shows all three best-fitting Einasto models with varying flattening fit well to the observation, and are undistinguishable. The best-fitting Einasto model with an exponential variation of flattening (Eqn. 7) has $\rm q_{inf}=0.9\pm0.04$, $\rm q_0=0.3\pm0.1$, $\rm r_0=8\pm2~$kpc, $\rm n=5.4\pm1.8$ and $\rm r_{eff}=7\pm3~$kpc. The Einasto profile with an Osipkov-Merritt flattening (Eqn. 8) fits well to the data with $\rm q_{inf}=0.96\pm0.05$, $\rm q_0=0.2\pm0.1$, $\rm r_0=15\pm3~$kpc, $\rm n=4.6\pm1.5$ and $\rm r_{eff}=8\pm3~$kpc. When the flattening follows the Sluis-Arnold form (Eqn. 9), the best-fit Einasto profile has $\rm q_0=0.3\pm0.1$, $\rm r_0=6\pm3~$kpc, $\rm n=4.2\pm1.5$ and $\rm r_{eff}=8\pm3~$kpc. The best-fitting models indicate that the stellar halo is very flat at the center, but becomes nearly spherical at larger radii. We compare the three best-fit models of the flattening variation, and find they are consistent with each other (Figure~\ref{f:fqv}). Compared to the stellar halo with no change of shape, the slope of the density profile will vary slower ($\rm n\sim5~ \it{vs.} \rm ~n=2.2$), but the distribution of mass is more concentrated ($\rm r_{eff}\sim8~kpc~ \it{vs.}~ \rm r_{eff}=21~kpc$), when the stellar halo changes from a flattened distribution at smaller radii to an almost spherical distribution at larger radii.
-We have fitted a set of models with constant or variable flattening, and Figure~\ref{f:fpdm} shows all models fit well with the data. However, it can not reflect the difference between these models. So, we will explore it in \S 4.5.
-\subsection{The model comparisons}\label{sec:ModelComparison}
-Our best-fitting density distributions can be used to estimate the mass $\rm M(<r)$ within a radius $\rm r$ and the total mass of the Milky Way through Jeans model. According to Jeans equation, $\rm \frac{dln\nu}{dlnr}$\footnote{The $\rm \frac{dln\nu}{dlnr}$ indicates the steepness of the density profile.} plays an important role when calculating $\rm M(<r)$, so we explore the difference between our best-fitted models by comparing their $\rm \frac{dln\nu}{dlnr}$. The stellar halo is oblate, so the density profile is axisymmetric. The spherical $\rm \frac{dln\nu}{dlnr}$ can not reflect the difference caused by the flattening. Therefore, we use $\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$ in the direction along the diagonal line in $\rm (x,y,z)$ coordinate to do the comparison. Comparing all models in one plot will make the figure unreadable, so we compare the Einasto profiles with different forms of flattening variation firstly. The upper panel of Figure~\ref{f:fdensity} shows all three forms of flattening reach consistent density profiles. Since the Einasto profiles with different definitions of flattening variation are consistent, we will only use one of them to compare with the models with constant flattening. Figure~\ref{f:fdensity} (lower panel) shows the consistency between the models with constant or variable flattening.
-\section{Discussion}
-We use the dominated part of the SEGUE-2 K giants, ``l-color K giants'', to derive the underlying stellar distribution accounting for the selection function of the data. The ``selection biases'' of SEGUE-2 l-color K giants are explored by the comparison between the distribution of successfully spectroscopic targets and the complete parent set of photometric targets in color-magnitude plane. We find the selection function is independent on color and magnitude, and as simple as a plate-dependent fraction. After that, we apply the plate-dependent selection function to l-color K giants, and the best stellar density profiles are identified by the maximum-likelihood approach.
-Based on the data with $\rm 10~kpc<r_{gc}<80~kpc$ and $\rm -3.5<\feh<-1.2$, we find the stellar halo is oblate, and its shape depends strongly on the metallicity. Our best-fitting models suggest a flattening of $\rm q=0.78\pm0.02$, and a steeper profile at larger radii. We prefer to using Einasto profile to represent the stellar halo density as:
-\begin{eqnarray}
-\rm \nu_{\star}(r_q) &\propto& exp\left\{-6.27\left[\left(r_q/21\right )^{1/2.2}-1\right ]\right\}, \rm with~r_q=\sqrt{R^2+z^2/0.78^2}.
-\end{eqnarray}
-Meanwhile, the broken power-law is also an equally good law for the stellar halo density. SEGUE-2 l-color K giants are consistent with a broken power-law with an inner slope of $\rm 2.7$ and an outer slope of $\rm 4.2$, the break radius at $\rm 30$kpc, which can be expressed as:
-\begin{equation}
-\rm \nu_\star\left(r_q \right )\propto \left\{\begin{matrix} \rm r_q^{-2.7}, & \rm r_q\leq 30~kpc \\ \rm r_q^{-4.2},&\rm r_q>30~kpc \end{matrix}\right.
-\end{equation}
-These two formulae are fundamental results for the stellar density models with a constant flattening in our paper. The results are qualitatively similar to those obtained by \citet{Sesar2011} using photometric main-sequence stars and \citet{Deason2011} using photometric A-type stars, but quantitatively different from them. Furthermore, we find the evidence for the variation of flattening with distance, which confirms the finding of \citet{Preston1991}, but is inconsistent with findings of \citet{Sluis1998, Sesar2011,Deason2011}
-In summary, we find the SEGUE-2 l-color K giants are well described by an oblate density distribution with a constant flattening of $\rm q \sim 0.78$ and a steeper profile at larger radii. In addition, we find the evidence of the variation of flattening. Comparing to previous studies, our findings indicate the stellar halo is not as flat as \citet[;q=0.7]{Sesar2011} and \citet[;q=0.58]{Deason2011}, and the radial distribution of the density profile is consistent with \citet{Sesar2011}, but is not as steep as \citet{Deason2011,Deason2014}.
-Similar to the comparisons in \S 4.5, we plotted $\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$ for the best-fit density profiles of \citet{Deason2011,Deason2014} over our preferred models shown as Figure~\ref{f:fdensitycompare}. \citet{Deason2011,Deason2014} found much steeper density distribution of the stellar halo.
-We have applied our best-fit stellar density profiles and the radial velocity dispersion of the SEGUE K giants to the axisymmetric Jeans model to estimate the total mass of the Milky Way by assuming the gravity potential model, and get the total mass of $\rm M_{340}=1.3\pm0.3\times10^{12}M_\sun$ (see B\"{u}denbender et al. 2015 for details).
+following \citet{Sluis1998}, which we dub Sluis-Arnold flattening. 
+Note that the flattening in all these cases ia a function of the spherical radius, $r$, not of $r_q$.
+
+We restrict the possible radial profile Einasto models with above three forms of varying flattening to the data. For all three flattening profiles, we find that the halo is far more flattened at small radii $\bigl ( q(r=10\rm~kpc)\approx 0.6\bigr )$, becomes nearly round beyond  $\rm r_0\approx 30$~kpc)  to $\rm q_{inf}\approx 0.95$),  and that formally small Einasto scale radii are favored ($\rm r_{eff} \sim 10~$kpc). Flattening profiles that correspond to samples of the parameter's PDFs  are illustrated Figure~\ref{f:fqv}: the flattening profile depends little on the functional form chose in the modelling.  
+{\bf Question, XX}\textit{WHY NOT MOVE THE FOLLOWING INTO A TABLE? The best-fitting Einasto model with an exponential variation of flattening (Eqn. 7) has $\rm q_{inf}=0.9\pm0.04$, $\rm q_0=0.3\pm0.1$, $\rm r_0=8\pm2~$kpc, $\rm n=5.4\pm1.8$ and $\rm r_{eff}=7\pm3~$kpc. The Einasto profile with an Osipkov-Merritt flattening (Eqn. 8) fits well to the data with $\rm q_{inf}=0.96\pm0.05$, $\rm q_0=0.2\pm0.1$, $\rm r_0=15\pm3~$kpc, $\rm n=4.6\pm1.5$ and $\rm r_{eff}=8\pm3~$kpc. When the flattening follows the Sluis-Arnold form (Eqn. 9), the best-fit Einasto profile has $\rm q_0=0.3\pm0.1$, $\rm r_0=6\pm3~$kpc, $\rm n=4.2\pm1.5$ and $\rm r_{eff}=8\pm3~$kpc.} 
+
+Note that while the formal $\rm q_0\approx 0.3$ (at $r=0$~kpc), we have not used any data within $r=10$~kpc. 
+
+The change in $\rm r_{eff}$, when allowing for variable flattening, may seem dramatic. Yet,
+the implied radial profile is actually not very different, as we will show below (Section \ref{sec:ModelComparison}).
+
+
+\subsection{Comparison of Different Functional Forms for the Radial Profile}\label{sec:ModelComparison}
+
+Analogous to the comparison of the flattening profiles shown in Figure~\ref{f:fqv} 
+(cf Section \ref{sec:Results_FlatteningVariations}) we now explore how different the 
+actual radial density profiles implied by the various fits above actually are over the radial range where they are constrained by data ($10~\rm kpc \le \rm r \le 80~\rm kpc$). Here, we focus
+on the local slope of the density profile, i.e. the local power-law exponent, $\rm \frac{dln\nu}{dlnr}$, because of its important role in mass estimates $\rm M(<r)$, e.g. through the Jeans Equation (cf. Section \ref{sec:Introduction}). Since the stellar halo density distributions we consider here are axisymmetric, effectively oblate, we take an intermediate axis (in cylindrical coordinates) as the radial coordinate 
+in such comparison, $\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$.
+
+We start by comparing the Einasto profiles with different forms of flattening variation: the upper panel of Figure~\ref{f:fdensity} shows that all three functional formsfor the flattening also have  consistent density profiles. Since the Einasto profiles with different definitions of flattening variation are consistent, we will only use one of them to compare with the models with constant flattening (WHICH ONE? YOU NEVER SAY). Figure~\ref{f:fdensity} (lower panel) compares  the radial profiles between the models with constant or variable flattening: remarkably the Einasto profiles with constant (black) and variable (blue) flattening have consistent radial profile slopes,
+$\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$, despite their quite different $r_{eff}$.
+However, the broken power-law profile slope differs significantly from the Einasto profile beyond 50~kpc.
+
+\section{Summary and Discussion}\label{sec:Discussion}
+In this paper, we have presented an analysis of the overall spatial distribution of stars in the Galactic halo in the range $10~\rm kpc < r < 80~kpc$, based on over 2,000 spectroscopically confirmed (\textit{l}-color) K-giants from SEGUE-2 with $\rm -3.5<\feh<-1.2$. 
+This sample is comparable in size and distance range to previous samples of BHB stars in the Galactic halo, but has the advantage that K-giants
+are ubiquitous and well-understood tracers of all stellar halo populations across the relevant age and metallicity range.  We have laid out a formalism for fitting parameterized models to the spatial distribution of these halo stars that quite rigorously accounts for the selection function of the spectroscopic survey. 
+
+We consider a variety of parameterized functional forms for the stellar density distributions
+with spheroidal density stratifications. These have either  Einasto or broken power-law profiles 
+in radius, and have constant or radially variable flattening. 
+
+We find that the radial distribution can be reasonably well described by either an Einasto profile or a (once) broken power-law. If the flattening is assumed to be constant, the the halo is overall mildly oblate. We find that a single power-law is clearly ruled out, as the locally determined power-law slope (for either Einasto, or a broken power law) from $-2.5$ at 15~kpc to $-4.5$ at 50~kpc. In the radial profile of the K-giants, we found no evidence for a second power-law break at 50~kpc, as seen for the BHB stars \citep{Deason2014}. Overall, the halo profile slope
+$\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$ seen in the K-giants is significantly shallower than than the one measured and claimed for BHB stars \citep{Deason2014}; whether that is a true discrepancy, or just implies that the population in whcih BHB stars are more common has 
+a steeper profile is not clear.  At any rate, the new, improved information on the radial profile of the stellar halo presented here, should enable better halo mass estimates with stellar kinematics, as the radial profile uncertainties are a more important error source than the velocity dispersion measurements. 
+
+The large sample size and good metallicity estimates ($\delta\feh \approx 0.2$) allow us to 
+search for an abundance dependence of the overall halo profile: we find little dependence of the radial profile (e.g. $10\%$ in $R_{eff}$) on metallicity in the range
+$\rm -3.5<\feh<-1.2$. 
+
+We also explore the shape (i.e. the flattening) of the radial profile. Presuming radially constant flattening ($q=0.78\pm 0.02$ for the entire sample), we find that the most metal-poor sub-population of the halo $\feh<-1.9$ is considerably less flattened ($q=0.85$) than the rest ($q=0.7$).
+We find a distinct radial dependence of the flattening in the observed radial 
+range, rising from $q\approx 0.6$ at 10~kpc to $q\approx 0.95$ at 30~kpc and beyond. 
+This may reflect the transition from  the \textit{in situ} formed portion halo to accreted halo stars.
+Our finding is consistent with early claims \citet{Preston1991} that the halo becomes rounder 
+at large radii, but is inconsistent with findings of \citet{Sluis1998, Sesar2011,Deason2011}.
+This radial variation may reconcile our (constant) flattening $q=0.78$,
+which is less flat than the values found by \citet[;q=0.7]{Sesar2011} 
+and \citet[;q=0.58]{Deason2011} : if $q$ varies radially, then the details of the radial weighting matter in the fitting of $q=~\rm const.$ models.
+
+
+
 \acknowledgments
 The research has received funding from the European Research Council under the European Union's Seventh Framework Programme (FP 7) ERC Grant Agreement n. [321035].
 X.-X. Xue acknowledges the Alexander von Humboldt foundation for a fellowship
@@ -316,7 +356,8 @@ supported by the DFG's SFB-881 grant `The Milky Way System'.
 \centering
 \includegraphics[width=0.9\textwidth,height=0.45\textheight]{density_45d_compareqv}
 \includegraphics[width=0.9\textwidth,height=0.45\textheight]{density_45d_mcmc}
-\caption{(Upper panel) $\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$ for best-fit Einasto profiles with different definitions of flattening variation. (Lower panel) $\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$ for best-fit broken power-law with constant flattening (red) and best-fit Einasto profiles with constant flattening (black) or variable flattening (blue).}
+\caption{(Upper panel) Comparison of the local power-law slope $\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$ for the best-fit Einasto profiles with different functional forms of the flattening variation (Section  \ref{sec:Results_FlatteningVariations}); the lines correspond to radial profiles created from XX (??) samples of the parameter's PDF. (Lower panel) Comparison between the radial profile $\rm \frac{dln\nu(R,R/\sqrt{2})}{dlnR}$ for the best-fit broken power-law with constant flattening (red) and the best-fit Einasto profiles with constant (black) or variable (blue) flattening.
+Despite the fact that the Einasto profiles in the two cases (black and blue) have errective radii that differ by a factor of two, their radial profiles are very similar within the range constrained by the data.}
 \label{f:fdensity}
 \end{figure}
 \begin{figure}[htbp]
