@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2014/MacPorts 2014_3)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: halodensityprofile_v2.aux
+The style file: apj.bst
+Database file #1: refkg.bib
+You've used 39 entries,
+            2947 wiz_defined-function locations,
+            907 strings with 21962 characters,
+and the built_in function-call counts, 43494 in all, are:
+= -- 3148
+> -- 6199
+< -- 13
++ -- 2071
+- -- 2031
+* -- 4212
+:= -- 8247
+add.period$ -- 39
+call.type$ -- 39
+change.case$ -- 833
+chr.to.int$ -- 38
+cite$ -- 39
+duplicate$ -- 707
+empty$ -- 1016
+format.name$ -- 2122
+if$ -- 8424
+int.to.chr$ -- 2
+int.to.str$ -- 1
+missing$ -- 39
+newline$ -- 121
+num.names$ -- 156
+pop$ -- 826
+preamble$ -- 1
+purify$ -- 833
+quote$ -- 0
+skip$ -- 613
+stack$ -- 0
+substring$ -- 822
+swap$ -- 2
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 351
+warning$ -- 0
+while$ -- 156
+width$ -- 0
+write$ -- 393

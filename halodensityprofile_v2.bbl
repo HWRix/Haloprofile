@@ -1,0 +1,233 @@
+\begin{thebibliography}{39}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Ahn} {et~al.}(2012){Ahn}, {Alexandroff}, {Allende Prieto},
+  {Anderson}, {Anderton}, {Andrews}, {Aubourg}, {Bailey}, {Balbinot}, {Barnes},
+  \& et~al.}]{Ahn2012}
+{Ahn}, C.~P., {Alexandroff}, R., {Allende Prieto}, C., {et~al.} 2012, \apjs,
+  203, 21
+
+\bibitem[{{Bell} {et~al.}(2008){Bell}, {Zucker}, {Belokurov}, {Sharma},
+  {Johnston}, {Bullock}, {Hogg}, {Jahnke}, {de Jong}, {Beers}, {Evans},
+  {Grebel}, {Ivezi{\'c}}, {Koposov}, {Rix}, {Schneider}, {Steinmetz}, \&
+  {Zolotov}}]{Bell2008}
+{Bell}, E.~F., {Zucker}, D.~B., {Belokurov}, V., {et~al.} 2008, \apj, 680, 295
+
+\bibitem[{{Bovy} {et~al.}(2012){Bovy}, {Rix}, {Liu}, {Hogg}, {Beers}, \&
+  {Lee}}]{Bovy2012}
+{Bovy}, J., {Rix}, H.-W., {Liu}, C., {et~al.} 2012, \apj, 753, 148
+
+\bibitem[{{Carollo} {et~al.}(2010){Carollo}, {Beers}, {Chiba}, {Norris},
+  {Freeman}, {Lee}, {Ivezi{\'c}}, {Rockosi}, \& {Yanny}}]{Carollo2010}
+{Carollo}, D., {Beers}, T.~C., {Chiba}, M., {et~al.} 2010, \apj, 712, 692
+
+\bibitem[{{De Propris} {et~al.}(2010){De Propris}, {Harrison}, \&
+  {Mares}}]{Propris2010}
+{De Propris}, R., {Harrison}, C.~D., \& {Mares}, P.~J. 2010, \apj, 719, 1582
+
+\bibitem[{{Deason} {et~al.}(2011){Deason}, {Belokurov}, \&
+  {Evans}}]{Deason2011}
+{Deason}, A.~J., {Belokurov}, V., \& {Evans}, N.~W. 2011, \mnras, 416, 2903
+
+\bibitem[{{Deason} {et~al.}(2014){Deason}, {Belokurov}, {Koposov}, \&
+  {Rockosi}}]{Deason2014}
+{Deason}, A.~J., {Belokurov}, V., {Koposov}, S.~E., \& {Rockosi}, C.~M. 2014,
+  \apj, 787, 30
+
+\bibitem[{{Einasto} \& {Haud}(1989)}]{Einasto1989}
+{Einasto}, J. \& {Haud}, U. 1989, \aap, 223, 89
+
+\bibitem[{{Eisenstein} {et~al.}(2011){Eisenstein}, {Weinberg}, {Agol},
+  {Aihara}, {Allende Prieto}, {Anderson}, {Arns}, {Aubourg}, {Bailey},
+  {Balbinot}, \& et~al.}]{Eisenstein2011}
+{Eisenstein}, D.~J., {Weinberg}, D.~H., {Agol}, E., {et~al.} 2011, \aj, 142, 72
+
+\bibitem[{{Foreman-Mackey} {et~al.}(2013){Foreman-Mackey}, {Hogg}, {Lang}, \&
+  {Goodman}}]{Foreman2013}
+{Foreman-Mackey}, D., {Hogg}, D.~W., {Lang}, D., \& {Goodman}, J. 2013, \pasp,
+  125, 306
+
+\bibitem[{{Fukugita} {et~al.}(1996){Fukugita}, {Ichikawa}, {Gunn}, {Doi},
+  {Shimasaku}, \& {Schneider}}]{Fukugita1996}
+{Fukugita}, M., {Ichikawa}, T., {Gunn}, J.~E., {et~al.} 1996, \aj, 111, 1748
+
+\bibitem[{{Gould} {et~al.}(1998){Gould}, {Flynn}, \& {Bahcall}}]{Gould1998}
+{Gould}, A., {Flynn}, C., \& {Bahcall}, J.~N. 1998, \apj, 503, 798
+
+\bibitem[{{Gunn} {et~al.}(1998){Gunn}, {Carr}, {Rockosi}, {Sekiguchi}, {Berry},
+  {Elms}, {de Haas}, {Ivezi{\'c}}, {Knapp}, {Lupton}, {Pauls}, {Simcoe},
+  {Hirsch}, {Sanford}, {Wang}, {York}, {Harris}, {Annis}, {Bartozek},
+  {Boroski}, {Bakken}, {Haldeman}, {Kent}, {Holm}, {Holmgren}, {Petravick},
+  {Prosapio}, {Rechenmacher}, {Doi}, {Fukugita}, {Shimasaku}, {Okada}, {Hull},
+  {Siegmund}, {Mannery}, {Blouke}, {Heidtman}, {Schneider}, {Lucinio}, \&
+  {Brinkman}}]{Gunn1998}
+{Gunn}, J.~E., {Carr}, M., {Rockosi}, C., {et~al.} 1998, \aj, 116, 3040
+
+\bibitem[{{Harris}(1976)}]{Harris1976}
+{Harris}, W.~E. 1976, \aj, 81, 1095
+
+\bibitem[{{Hawkins}(1984)}]{Hawkins1984}
+{Hawkins}, M.~R.~S. 1984, \mnras, 206, 433
+
+\bibitem[{{Jeans}(1915)}]{Jeans1915}
+{Jeans}, J.~H. 1915, \mnras, 76, 70
+
+\bibitem[{{Lee} {et~al.}(2011){Lee}, {Beers}, {Allende Prieto}, {Lai},
+  {Rockosi}, {Morrison}, {Johnson}, {An}, {Sivarani}, \& {Yanny}}]{Lee2011}
+{Lee}, Y.~S., {Beers}, T.~C., {Allende Prieto}, C., {et~al.} 2011, \aj, 141, 90
+
+\bibitem[{{Lee} {et~al.}(2008{\natexlab{a}}){Lee}, {Beers}, {Sivarani},
+  {Allende Prieto}, {Koesterke}, {Wilhelm}, {Re Fiorentin}, {Bailer-Jones},
+  {Norris}, {Rockosi}, {Yanny}, {Newberg}, {Covey}, {Zhang}, \&
+  {Luo}}]{Lee2008a}
+{Lee}, Y.~S., {Beers}, T.~C., {Sivarani}, T., {et~al.} 2008{\natexlab{a}}, \aj,
+  136, 2022
+
+\bibitem[{{Lee} {et~al.}(2008{\natexlab{b}}){Lee}, {Beers}, {Sivarani},
+  {Johnson}, {An}, {Wilhelm}, {Allende Prieto}, {Koesterke}, {Re Fiorentin},
+  {Bailer-Jones}, {Norris}, {Yanny}, {Rockosi}, {Newberg}, {Cudworth}, \&
+  {Pan}}]{Lee2008b}
+{Lee}, Y.~S., {Beers}, T.~C., {Sivarani}, T., {et~al.} 2008{\natexlab{b}}, \aj,
+  136, 2050
+
+\bibitem[{{Merritt}(1985)}]{Merritt1985}
+{Merritt}, D. 1985, \aj, 90, 1027
+
+\bibitem[{{Merritt} {et~al.}(2006){Merritt}, {Graham}, {Moore}, {Diemand}, \&
+  {Terzi{\'c}}}]{Merritt2006}
+{Merritt}, D., {Graham}, A.~W., {Moore}, B., {Diemand}, J., \& {Terzi{\'c}}, B.
+  2006, \aj, 132, 2685
+
+\bibitem[{{Osipkov}(1979)}]{Osipkov1979}
+{Osipkov}, L.~P. 1979, Pisma v Astronomicheskii Zhurnal, 5, 77
+
+\bibitem[{{Pier} {et~al.}(2003){Pier}, {Munn}, {Hindsley}, {Hennessy}, {Kent},
+  {Lupton}, \& {Ivezi{\'c}}}]{Pier2003}
+{Pier}, J.~R., {Munn}, J.~A., {Hindsley}, R.~B., {et~al.} 2003, \aj, 125, 1559
+
+\bibitem[{{Preston} {et~al.}(1991){Preston}, {Shectman}, \&
+  {Beers}}]{Preston1991}
+{Preston}, G.~W., {Shectman}, S.~A., \& {Beers}, T.~C. 1991, \apj, 375, 121
+
+\bibitem[{{Rix} \& {Bovy}(2013)}]{Rix2013}
+{Rix}, H.-W. \& {Bovy}, J. 2013, \aapr, 21, 61
+
+\bibitem[{{Robin} {et~al.}(2000){Robin}, {Reyl{\'e}}, \&
+  {Cr{\'e}z{\'e}}}]{Robin2000}
+{Robin}, A.~C., {Reyl{\'e}}, C., \& {Cr{\'e}z{\'e}}, M. 2000, \aap, 359, 103
+
+\bibitem[{{Saha}(1985)}]{Saha1985}
+{Saha}, A. 1985, \apj, 289, 310
+
+\bibitem[{{S{\'e}rsic}(1963)}]{Sersic1963}
+{S{\'e}rsic}, J.~L. 1963, Boletin de la Asociacion Argentina de Astronomia La
+  Plata Argentina, 6, 41
+
+\bibitem[{{Sesar} {et~al.}(2011){Sesar}, {Juri{\'c}}, \&
+  {Ivezi{\'c}}}]{Sesar2011}
+{Sesar}, B., {Juri{\'c}}, M., \& {Ivezi{\'c}}, {\v Z}. 2011, \apj, 731, 4
+
+\bibitem[{{Siegel} {et~al.}(2002){Siegel}, {Majewski}, {Reid}, \&
+  {Thompson}}]{Siegel2002}
+{Siegel}, M.~H., {Majewski}, S.~R., {Reid}, I.~N., \& {Thompson}, I.~B. 2002,
+  \apj, 578, 151
+
+\bibitem[{{Sluis} \& {Arnold}(1998)}]{Sluis1998}
+{Sluis}, A.~P.~N. \& {Arnold}, R.~A. 1998, \mnras, 297, 732
+
+\bibitem[{{Sommer-Larsen}(1987)}]{Sommer-Larsen1987}
+{Sommer-Larsen}, J. 1987, \mnras, 227, 21P
+
+\bibitem[{{Soubiran}(1993)}]{Soubiran1993}
+{Soubiran}, C. 1993, \aap, 274, 181
+
+\bibitem[{{Stoughton} {et~al.}(2002){Stoughton}, {Lupton}, {Bernardi},
+  {Blanton}, {Burles}, {Castander}, {Connolly}, {Eisenstein}, {Frieman},
+  {Hennessy}, {Hindsley}, {Ivezi{\'c}}, {Kent}, {Kunszt}, {Lee}, {Meiksin},
+  {Munn}, {Newberg}, {Nichol}, {Nicinski}, {Pier}, {Richards}, {Richmond},
+  {Schlegel}, {Smith}, {Strauss}, {SubbaRao}, {Szalay}, {Thakar}, {Tucker},
+  {Vanden Berk}, {Yanny}, {Adelman}, {Anderson}, {Anderson}, {Annis},
+  {Bahcall}, {Bakken}, {Bartelmann}, {Bastian}, {Bauer}, {Berman},
+  {B{\"o}hringer}, {Boroski}, {Bracker}, {Briegel}, {Briggs}, {Brinkmann},
+  {Brunner}, {Carey}, {Carr}, {Chen}, {Christian}, {Colestock}, {Crocker},
+  {Csabai}, {Czarapata}, {Dalcanton}, {Davidsen}, {Davis}, {Dehnen},
+  {Dodelson}, {Doi}, {Dombeck}, {Donahue}, {Ellman}, {Elms}, {Evans}, {Eyer},
+  {Fan}, {Federwitz}, {Friedman}, {Fukugita}, {Gal}, {Gillespie}, {Glazebrook},
+  {Gray}, {Grebel}, {Greenawalt}, {Greene}, {Gunn}, {de Haas}, {Haiman},
+  {Haldeman}, {Hall}, {Hamabe}, {Hansen}, {Harris}, {Harris}, {Harvanek},
+  {Hawley}, {Hayes}, {Heckman}, {Helmi}, {Henden}, {Hogan}, {Hogg}, {Holmgren},
+  {Holtzman}, {Huang}, {Hull}, {Ichikawa}, {Ichikawa}, {Johnston}, {Kauffmann},
+  {Kim}, {Kimball}, {Kinney}, {Klaene}, {Kleinman}, {Klypin}, {Knapp},
+  {Korienek}, {Krolik}, {Kron}, {Krzesi{\'n}ski}, {Lamb}, {Leger},
+  {Limmongkol}, {Lindenmeyer}, {Long}, {Loomis}, {Loveday}, {MacKinnon},
+  {Mannery}, {Mantsch}, {Margon}, {McGehee}, {McKay}, {McLean}, {Menou},
+  {Merelli}, {Mo}, {Monet}, {Nakamura}, {Narayanan}, {Nash}, {Neilsen},
+  {Newman}, {Nitta}, {Odenkirchen}, {Okada}, {Okamura}, {Ostriker}, {Owen},
+  {Pauls}, {Peoples}, {Peterson}, {Petravick}, {Pope}, {Pordes}, {Postman},
+  {Prosapio}, {Quinn}, {Rechenmacher}, {Rivetta}, {Rix}, {Rockosi}, {Rosner},
+  {Ruthmansdorfer}, {Sandford}, {Schneider}, {Scranton}, {Sekiguchi}, {Sergey},
+  {Sheth}, {Shimasaku}, {Smee}, {Snedden}, {Stebbins}, {Stubbs}, {Szapudi},
+  {Szkody}, {Szokoly}, {Tabachnik}, {Tsvetanov}, {Uomoto}, {Vogeley}, {Voges},
+  {Waddell}, {Walterbos}, {Wang}, {Watanabe}, {Weinberg}, {White}, {White},
+  {Wilhite}, {Wolfe}, {Yasuda}, {York}, {Zehavi}, \& {Zheng}}]{Stoughton2002}
+{Stoughton}, C., {Lupton}, R.~H., {Bernardi}, M., {et~al.} 2002, \aj, 123, 485
+
+\bibitem[{{Wetterer} \& {McGraw}(1996)}]{Wetterer1996}
+{Wetterer}, C.~J. \& {McGraw}, J.~T. 1996, \aj, 112, 1046
+
+\bibitem[{{Xue} {et~al.}(2014){Xue}, {Ma}, {Rix}, {Morrison}, {Harding},
+  {Beers}, {Ivans}, {Jacobson}, {Johnson}, {Lee}, {Lucatello}, {Rockosi},
+  {Sobeck}, {Yanny}, {Zhao}, \& {Allende Prieto}}]{Xue2014}
+{Xue}, X.-X., {Ma}, Z., {Rix}, H.-W., {et~al.} 2014, \apj, 784, 170
+
+\bibitem[{{Xue} {et~al.}(2011){Xue}, {Rix}, {Yanny}, {Beers}, {Bell}, {Zhao},
+  {Bullock}, {Johnston}, {Morrison}, {Rockosi}, {Koposov}, {Kang}, {Liu},
+  {Luo}, {Lee}, \& {Weaver}}]{Xue2011}
+{Xue}, X.-X., {Rix}, H.-W., {Yanny}, B., {et~al.} 2011, \apj, 738, 79
+
+\bibitem[{{Yanny} {et~al.}(2009){Yanny}, {Rockosi}, {Newberg}, {Knapp},
+  {Adelman-McCarthy}, {Alcorn}, {Allam}, {Allende Prieto}, {An}, {Anderson},
+  {Anderson}, {Bailer-Jones}, {Bastian}, {Beers}, {Bell}, {Belokurov},
+  {Bizyaev}, {Blythe}, {Bochanski}, {Boroski}, {Brinchmann}, {Brinkmann},
+  {Brewington}, {Carey}, {Cudworth}, {Evans}, {Evans}, {Gates}, {G{\"a}nsicke},
+  {Gillespie}, {Gilmore}, {Gomez-Moran}, {Grebel}, {Greenwell}, {Gunn},
+  {Jordan}, {Jordan}, {Harding}, {Harris}, {Hendry}, {Holder}, {Ivans},
+  {Ivezi{\v c}}, {Jester}, {Johnson}, {Kent}, {Kleinman}, {Kniazev},
+  {Krzesinski}, {Kron}, {Kuropatkin}, {Lebedeva}, {Lee}, {Leger}, {L{\'e}pine},
+  {Levine}, {Lin}, {Long}, {Loomis}, {Lupton}, {Malanushenko}, {Malanushenko},
+  {Margon}, {Martinez-Delgado}, {McGehee}, {Monet}, {Morrison}, {Munn},
+  {Neilsen}, {Nitta}, {Norris}, {Oravetz}, {Owen}, {Padmanabhan}, {Pan},
+  {Peterson}, {Pier}, {Platson}, {Fiorentin}, {Richards}, {Rix}, {Schlegel},
+  {Schneider}, {Schreiber}, {Schwope}, {Sibley}, {Simmons}, {Snedden}, {Smith},
+  {Stark}, {Stauffer}, {Steinmetz}, {Stoughton}, {Subba Rao}, {Szalay},
+  {Szkody}, {Thakar}, {Thirupathi}, {Tucker}, {Uomoto}, {Vanden Berk},
+  {Vidrih}, {Wadadekar}, {Watters}, {Wilhelm}, {Wyse}, {Yarger}, \&
+  {Zucker}}]{Yanny2009b}
+{Yanny}, B., {Rockosi}, C., {Newberg}, H.~J., {et~al.} 2009, \aj, 137, 4377
+
+\bibitem[{{York} {et~al.}(2000){York}, {Adelman}, {Anderson}, {Anderson},
+  {Annis}, {Bahcall}, {Bakken}, {Barkhouser}, {Bastian}, {Berman}, {Boroski},
+  {Bracker}, {Briegel}, {Briggs}, {Brinkmann}, {Brunner}, {Burles}, {Carey},
+  {Carr}, {Castander}, {Chen}, {Colestock}, {Connolly}, {Crocker}, {Csabai},
+  {Czarapata}, {Davis}, {Doi}, {Dombeck}, {Eisenstein}, {Ellman}, {Elms},
+  {Evans}, {Fan}, {Federwitz}, {Fiscelli}, {Friedman}, {Frieman}, {Fukugita},
+  {Gillespie}, {Gunn}, {Gurbani}, {de Haas}, {Haldeman}, {Harris}, {Hayes},
+  {Heckman}, {Hennessy}, {Hindsley}, {Holm}, {Holmgren}, {Huang}, {Hull},
+  {Husby}, {Ichikawa}, {Ichikawa}, {Ivezi{\'c}}, {Kent}, {Kim}, {Kinney},
+  {Klaene}, {Kleinman}, {Kleinman}, {Knapp}, {Korienek}, {Kron}, {Kunszt},
+  {Lamb}, {Lee}, {Leger}, {Limmongkol}, {Lindenmeyer}, {Long}, {Loomis},
+  {Loveday}, {Lucinio}, {Lupton}, {MacKinnon}, {Mannery}, {Mantsch}, {Margon},
+  {McGehee}, {McKay}, {Meiksin}, {Merelli}, {Monet}, {Munn}, {Narayanan},
+  {Nash}, {Neilsen}, {Neswold}, {Newberg}, {Nichol}, {Nicinski}, {Nonino},
+  {Okada}, {Okamura}, {Ostriker}, {Owen}, {Pauls}, {Peoples}, {Peterson},
+  {Petravick}, {Pier}, {Pope}, {Pordes}, {Prosapio}, {Rechenmacher}, {Quinn},
+  {Richards}, {Richmond}, {Rivetta}, {Rockosi}, {Ruthmansdorfer}, {Sandford},
+  {Schlegel}, {Schneider}, {Sekiguchi}, {Sergey}, {Shimasaku}, {Siegmund},
+  {Smee}, {Smith}, {Snedden}, {Stone}, {Stoughton}, {Strauss}, {Stubbs},
+  {SubbaRao}, {Szalay}, {Szapudi}, {Szokoly}, {Thakar}, {Tremonti}, {Tucker},
+  {Uomoto}, {Vanden Berk}, {Vogeley}, {Waddell}, {Wang}, {Watanabe},
+  {Weinberg}, {Yanny}, \& {Yasuda}}]{York2000}
+{York}, D.~G., {Adelman}, J., {Anderson}, Jr., J.~E., {et~al.} 2000, \aj, 120,
+  1579
+
+\end{thebibliography}
