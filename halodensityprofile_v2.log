@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.6)  12 JAN 2015 13:30
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.5.6)  14 JAN 2015 11:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -334,18 +334,18 @@ LaTeX Info: Redefining \bm on input line 204.
 (./halodensityprofile_v2.aux)
 \openout1 = `halodensityprofile_v2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
-LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
 
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -411,59 +411,60 @@ e
 AAS preprint substyle, v5.2 <12 Dec 2003>.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+lasy on input line 29.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 31.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 29.
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 29.
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+rsfs on input line 29.
+LaTeX Font Info:    Try loading font information for U+rsfs on input line 31.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 29.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 29.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 31.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <7> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 33.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 61.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 33.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 61.
+ [1
+
+{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Missing character: There is no â in font cmr8!
 Missing character: There is no ˆ in font cmr8!
 Missing character: There is no ’ in font cmr8!
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 49.
+ [2]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 49.
- [1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
+ [3] [4]
 
-{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
- [4]
-Overfull \hbox (8.46088pt too wide) in paragraph at lines 83--84
+Package natbib Warning: Citation `Belokurov2006' on page 5 undefined on input l
+ine 117.
+
+
+Overfull \hbox (8.46088pt too wide) in paragraph at lines 116--119
 []\OT1/cmr/m/n/12 We pre-sume that the stel-lar halo dis-tri-bu-tion can be sen
 -si-bly ap-prox-i-mated by a spheroidal
  []
 
 [5] [6]
-Overfull \hbox (9.46648pt too wide) in alignment at lines 119--122
- [][][] []
- []
-
-
-Overfull \hbox (3.3218pt too wide) in paragraph at lines 122--125
+Overfull \hbox (3.3218pt too wide) in paragraph at lines 158--162
 \OT1/cmr/m/n/12 The Ja-co-bian term $\OMS/cmsy/m/n/12 j\OT1/cmr/m/n/12 J(x\OML/
 cmm/m/it/12 ; \OT1/cmr/m/n/12 y\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 z; []\OML/cmm
 /m/it/12 ; \OT1/cmr/m/n/12 l\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 b)\OMS/cmsy/m/n/
@@ -472,58 +473,63 @@ ML/cmm/m/it/12 ; \OT1/cmr/m/n/12 y\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 z)$
  []
 
 
-Overfull \hbox (49.77148pt too wide) in alignment at lines 128--133
+Overfull \hbox (49.77148pt too wide) in alignment at lines 165--170
  [][][] []
  []
 
 
-Overfull \hbox (33.21562pt too wide) detected at line 138
+Overfull \hbox (33.21562pt too wide) detected at line 175
 \OT1/cmr/m/n/12 p([]) \OMS/cmsy/m/n/12 / []
  []
 
 
-Overfull \hbox (64.06451pt too wide) detected at line 144
+Overfull \hbox (148.43234pt too wide) in alignment at lines 177--182
+ [][][] []
+ []
+
+
+Overfull \hbox (64.06451pt too wide) detected at line 188
 \OT1/cmr/m/n/12 S(l[]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 b[]) = []
  []
 
 
-Overfull \hbox (108.87827pt too wide) detected at line 150
+Overfull \hbox (108.87827pt too wide) detected at line 194
 \OT1/cmr/m/n/12 S(m([]\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 M[])\OML/cmm/m/it/12 ;
  \OT1/cmr/m/n/12 c(M[]\OML/cmm/m/it/12 ; []\OT1/cmr/m/n/12 )) \OMS/cmsy/m/n/12 
 / []
  []
 
-[7] [8] [9] [10] [11] (./halodensityprofile_v2.bbl [12] [13]) [14]
-<skymap_lkg.png, id=63, 578.16pt x 433.62pt>
+[7] [8] [9] [10] [11] (./halodensityprofile_v2.bbl [12] [13] [14]) [15]
+<skymap_lkg.png, id=66, 578.16pt x 433.62pt>
 File: skymap_lkg.png Graphic file (type png)
  <use skymap_lkg.png>
-Package pdftex.def Info: skymap_lkg.png used on input line 292.
+Package pdftex.def Info: skymap_lkg.png used on input line 344.
 (pdftex.def)             Requested size: 234.87692pt x 182.12578pt.
 
-<xz_lkg.png, id=65, 578.16pt x 433.62pt>
+<xz_lkg.png, id=68, 578.16pt x 433.62pt>
 File: xz_lkg.png Graphic file (type png)
  <use xz_lkg.png>
-Package pdftex.def Info: xz_lkg.png used on input line 293.
+Package pdftex.def Info: xz_lkg.png used on input line 345.
 (pdftex.def)             Requested size: 234.87692pt x 182.12578pt.
 
-<rgcfeh_lkg.png, id=66, 578.16pt x 433.62pt>
+<rgcfeh_lkg.png, id=69, 578.16pt x 433.62pt>
 File: rgcfeh_lkg.png Graphic file (type png)
  <use rgcfeh_lkg.png>
-Package pdftex.def Info: rgcfeh_lkg.png used on input line 294.
+Package pdftex.def Info: rgcfeh_lkg.png used on input line 346.
 (pdftex.def)             Requested size: 234.87692pt x 182.12578pt.
 
-<xy_lkg.png, id=67, 578.16pt x 433.62pt>
+<xy_lkg.png, id=70, 578.16pt x 433.62pt>
 File: xy_lkg.png Graphic file (type png)
  <use xy_lkg.png>
-Package pdftex.def Info: xy_lkg.png used on input line 295.
+Package pdftex.def Info: xy_lkg.png used on input line 347.
 (pdftex.def)             Requested size: 234.87692pt x 182.12578pt.
 
-Overfull \hbox (2.60994pt too wide) in paragraph at lines 292--296
+Overfull \hbox (2.60994pt too wide) in paragraph at lines 344--348
 [][] []
  []
 
 
-Overfull \hbox (2.60994pt too wide) in paragraph at lines 292--296
+Overfull \hbox (2.60994pt too wide) in paragraph at lines 344--348
 [] [] 
  []
 
@@ -535,14 +541,14 @@ Package epstopdf Info: Source file: <gmrvsr0_lctarget.eps>
 (epstopdf)                    size: 12736 bytes
 (epstopdf)             Command: <repstopdf --outfile=gmrvsr0_lctarget-eps-conve
 rted-to.pdf gmrvsr0_lctarget.eps>
-(epstopdf)             \includegraphics on input line 301.
+(epstopdf)             \includegraphics on input line 353.
 Package epstopdf Info: Output file is already uptodate.
-<gmrvsr0_lctarget-eps-converted-to.pdf, id=68, 505.89pt x 361.35pt>
+<gmrvsr0_lctarget-eps-converted-to.pdf, id=71, 505.89pt x 361.35pt>
 File: gmrvsr0_lctarget-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gmrvsr0_lctarget-eps-converted-to.pdf>
 Package pdftex.def Info: gmrvsr0_lctarget-eps-converted-to.pdf used on input li
-ne 301.
+ne 353.
 (pdftex.def)             Requested size: 225.47928pt x 182.12466pt.
 Package epstopdf Info: Source file: <gmrvsumg_lctarget.eps>
 (epstopdf)                    date: 2014-12-09 08:02:41
@@ -552,15 +558,15 @@ Package epstopdf Info: Source file: <gmrvsumg_lctarget.eps>
 (epstopdf)                    size: 13914 bytes
 (epstopdf)             Command: <repstopdf --outfile=gmrvsumg_lctarget-eps-conv
 erted-to.pdf gmrvsumg_lctarget.eps>
-(epstopdf)             \includegraphics on input line 302.
+(epstopdf)             \includegraphics on input line 354.
 Package epstopdf Info: Output file is already uptodate.
 
-<gmrvsumg_lctarget-eps-converted-to.pdf, id=69, 505.89pt x 361.35pt>
+<gmrvsumg_lctarget-eps-converted-to.pdf, id=72, 505.89pt x 361.35pt>
 File: gmrvsumg_lctarget-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gmrvsumg_lctarget-eps-converted-to.pdf>
 Package pdftex.def Info: gmrvsumg_lctarget-eps-converted-to.pdf used on input l
-ine 302.
+ine 354.
 (pdftex.def)             Requested size: 225.47928pt x 182.12466pt.
 Package epstopdf Info: Source file: <gmrvslcolor_lctarget.eps>
 (epstopdf)                    date: 2014-12-09 08:02:41
@@ -571,15 +577,15 @@ Package epstopdf Info: Source file: <gmrvslcolor_lctarget.eps>
 (epstopdf)                    size: 13875 bytes
 (epstopdf)             Command: <repstopdf --outfile=gmrvslcolor_lctarget-eps-c
 onverted-to.pdf gmrvslcolor_lctarget.eps>
-(epstopdf)             \includegraphics on input line 303.
+(epstopdf)             \includegraphics on input line 355.
 Package epstopdf Info: Output file is already uptodate.
 
-<gmrvslcolor_lctarget-eps-converted-to.pdf, id=70, 505.89pt x 361.35pt>
+<gmrvslcolor_lctarget-eps-converted-to.pdf, id=73, 505.89pt x 361.35pt>
 File: gmrvslcolor_lctarget-eps-converted-to.pdf Graphic file (type pdf)
 
 <use gmrvslcolor_lctarget-eps-converted-to.pdf>
 Package pdftex.def Info: gmrvslcolor_lctarget-eps-converted-to.pdf used on inpu
-t line 303.
+t line 355.
 (pdftex.def)             Requested size: 225.47928pt x 182.12466pt.
 Package epstopdf Info: Source file: <umgvsrmi_lctarget.eps>
 (epstopdf)                    date: 2014-12-09 08:02:41
@@ -589,46 +595,46 @@ Package epstopdf Info: Source file: <umgvsrmi_lctarget.eps>
 (epstopdf)                    size: 14625 bytes
 (epstopdf)             Command: <repstopdf --outfile=umgvsrmi_lctarget-eps-conv
 erted-to.pdf umgvsrmi_lctarget.eps>
-(epstopdf)             \includegraphics on input line 304.
+(epstopdf)             \includegraphics on input line 356.
 Package epstopdf Info: Output file is already uptodate.
 
-<umgvsrmi_lctarget-eps-converted-to.pdf, id=71, 505.89pt x 361.35pt>
+<umgvsrmi_lctarget-eps-converted-to.pdf, id=74, 505.89pt x 361.35pt>
 File: umgvsrmi_lctarget-eps-converted-to.pdf Graphic file (type pdf)
 
 <use umgvsrmi_lctarget-eps-converted-to.pdf>
 Package pdftex.def Info: umgvsrmi_lctarget-eps-converted-to.pdf used on input l
-ine 304.
+ine 356.
 (pdftex.def)             Requested size: 225.47928pt x 182.12466pt.
 
-<sfxzlkg.png, id=72, 744.7825pt x 451.6875pt>
+<sfxzlkg.png, id=75, 744.7825pt x 451.6875pt>
 File: sfxzlkg.png Graphic file (type png)
  <use sfxzlkg.png>
-Package pdftex.def Info: sfxzlkg.png used on input line 310.
+Package pdftex.def Info: sfxzlkg.png used on input line 362.
 (pdftex.def)             Requested size: 225.48207pt x 182.12604pt.
 
-<sfxylkg.png, id=73, 744.7825pt x 451.6875pt>
+<sfxylkg.png, id=76, 744.7825pt x 451.6875pt>
 File: sfxylkg.png Graphic file (type png)
  <use sfxylkg.png>
-Package pdftex.def Info: sfxylkg.png used on input line 311.
+Package pdftex.def Info: sfxylkg.png used on input line 363.
 (pdftex.def)             Requested size: 225.48207pt x 182.12604pt.
 
-<triangleeinasto.png, id=74, 527.571pt x 527.571pt>
+<triangleeinasto.png, id=77, 527.571pt x 527.571pt>
 File: triangleeinasto.png Graphic file (type png)
  <use triangleeinasto.png>
-Package pdftex.def Info: triangleeinasto.png used on input line 317.
+Package pdftex.def Info: triangleeinasto.png used on input line 369.
 (pdftex.def)             Requested size: 469.75499pt x 469.75407pt.
 
-<pdm_hptest_allmodels.png, id=75, 427.1157pt x 324.7332pt>
+<pdm_hptest_allmodels.png, id=78, 427.1157pt x 324.7332pt>
 File: pdm_hptest_allmodels.png Graphic file (type png)
 
 <use pdm_hptest_allmodels.png>
-Package pdftex.def Info: pdm_hptest_allmodels.png used on input line 323.
+Package pdftex.def Info: pdm_hptest_allmodels.png used on input line 375.
 (pdftex.def)             Requested size: 469.75499pt x 357.16798pt.
- <trianglebpl.png, id=76, 679.338pt x 679.338pt>
+ <trianglebpl.png, id=79, 679.338pt x 679.338pt>
 File: trianglebpl.png Graphic file (type png)
 
 <use trianglebpl.png>
-Package pdftex.def Info: trianglebpl.png used on input line 329.
+Package pdftex.def Info: trianglebpl.png used on input line 381.
 (pdftex.def)             Requested size: 469.75499pt x 469.76994pt.
 Package epstopdf Info: Source file: <doublehp_reffqfehbin_Nov12014_einasto_pts9
 6_fixn_contour.eps>
@@ -641,70 +647,73 @@ Package epstopdf Info: Source file: <doublehp_reffqfehbin_Nov12014_einasto_pts9
 (epstopdf)             Command: <repstopdf --outfile=doublehp_reffqfehbin_Nov12
 014_einasto_pts96_fixn_contour-eps-converted-to.pdf doublehp_reffqfehbin_Nov120
 14_einasto_pts96_fixn_contour.eps>
-(epstopdf)             \includegraphics on input line 335.
+(epstopdf)             \includegraphics on input line 387.
 Package epstopdf Info: Output file is already uptodate.
 
 <doublehp_reffqfehbin_Nov12014_einasto_pts96_fixn_contour-eps-converted-to.pdf,
- id=77, 505.89pt x 361.35pt>
+ id=80, 505.89pt x 361.35pt>
 File: doublehp_reffqfehbin_Nov12014_einasto_pts96_fixn_contour-eps-converted-to
 .pdf Graphic file (type pdf)
 
 <use doublehp_reffqfehbin_Nov12014_einasto_pts96_fixn_contour-eps-converted-to.
 pdf>
 Package pdftex.def Info: doublehp_reffqfehbin_Nov12014_einasto_pts96_fixn_conto
-ur-eps-converted-to.pdf used on input line 335.
+ur-eps-converted-to.pdf used on input line 387.
 (pdftex.def)             Requested size: 469.75499pt x 335.54477pt.
- <q_variation.png, id=78, 578.16pt x 433.62pt>
+ <q_variation.png, id=81, 578.16pt x 433.62pt>
 File: q_variation.png Graphic file (type png)
  <use q_variation.png>
-Package pdftex.def Info: q_variation.png used on input line 341.
+Package pdftex.def Info: q_variation.png used on input line 395.
 (pdftex.def)             Requested size: 469.75499pt x 352.31538pt.
 
-<density_45d_compareqv.png, id=79, 578.16pt x 433.62pt>
+<density_45d_compareqv.png, id=82, 578.16pt x 433.62pt>
 File: density_45d_compareqv.png Graphic file (type png)
 
 <use density_45d_compareqv.png>
-Package pdftex.def Info: density_45d_compareqv.png used on input line 347.
+Package pdftex.def Info: density_45d_compareqv.png used on input line 401.
 (pdftex.def)             Requested size: 422.77669pt x 273.18866pt.
 
-<density_45d_mcmc.png, id=80, 578.16pt x 433.62pt>
+<density_45d_mcmc.png, id=83, 578.16pt x 433.62pt>
 File: density_45d_mcmc.png Graphic file (type png)
  <use density_45d_mcmc.png>
-Package pdftex.def Info: density_45d_mcmc.png used on input line 348.
+Package pdftex.def Info: density_45d_mcmc.png used on input line 402.
 (pdftex.def)             Requested size: 422.77669pt x 273.18866pt.
 
 
-LaTeX Warning: Float too large for page by 129.77115pt on input line 351.
+LaTeX Warning: Float too large for page by 144.93616pt on input line 405.
 
-<combinexueanddeason.png, id=81, 578.16pt x 433.62pt>
+<combinexueanddeason.png, id=84, 578.16pt x 433.62pt>
 File: combinexueanddeason.png Graphic file (type png)
 
 <use combinexueanddeason.png>
-Package pdftex.def Info: combinexueanddeason.png used on input line 354.
+Package pdftex.def Info: combinexueanddeason.png used on input line 408.
 (pdftex.def)             Requested size: 469.75499pt x 352.31538pt.
 
-Underfull \hbox (badness 10000) in alignment at lines 374--374
+Underfull \hbox (badness 10000) in alignment at lines 428--428
 [][][][] 
  []
 
 
-Overfull \hbox (46.97836pt too wide) in paragraph at lines 362--379
+Overfull \hbox (46.97836pt too wide) in paragraph at lines 416--433
 [] 
  []
 
-[15 <./skymap_lkg.png> <./xz_lkg.png> <./rgcfeh_lkg.png> <./xy_lkg.png>]
-[16 <./gmrvsr0_lctarget-eps-converted-to.pdf> <./gmrvsumg_lctarget-eps-converte
+
+Package natbib Warning: There were undefined citations.
+
+[16 <./skymap_lkg.png> <./xz_lkg.png> <./rgcfeh_lkg.png> <./xy_lkg.png>]
+[17 <./gmrvsr0_lctarget-eps-converted-to.pdf> <./gmrvsumg_lctarget-eps-converte
 d-to.pdf> <./gmrvslcolor_lctarget-eps-converted-to.pdf> <./umgvsrmi_lctarget-ep
-s-converted-to.pdf>] [17 <./sfxzlkg.png> <./sfxylkg.png>] [18 <./triangleeinast
-o.png>] [19 <./pdm_hptest_allmodels.png>] [20 <./trianglebpl.png>] [21 <./doubl
+s-converted-to.pdf>] [18 <./sfxzlkg.png> <./sfxylkg.png>] [19 <./triangleeinast
+o.png>] [20 <./pdm_hptest_allmodels.png>] [21 <./trianglebpl.png>] [22 <./doubl
 ehp_reffqfehbin_Nov12014_einasto_pts96_fixn_contour-eps-converted-to.pdf>]
-[22 <./q_variation.png>] [23 <./density_45d_compareqv.png> <./density_45d_mcmc.
-png>] [24 <./combinexueanddeason.png>] (./halodensityprofile_v2.aux) ) 
+[23 <./q_variation.png>] [24 <./density_45d_compareqv.png> <./density_45d_mcmc.
+png>] [25 <./combinexueanddeason.png>] (./halodensityprofile_v2.aux) ) 
 Here is how much of TeX's memory you used:
- 5276 strings out of 493308
- 73729 string characters out of 6137817
- 164014 words of memory out of 5000000
- 8577 multiletter control sequences out of 15000+600000
+ 5279 strings out of 493308
+ 73763 string characters out of 6137817
+ 162038 words of memory out of 5000000
+ 8580 multiletter control sequences out of 15000+600000
  20849 words of font info for 86 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,17n,39p,2181b,418s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -731,10 +740,10 @@ st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2013/texmf-dis
 t/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2013/texmf
 -dist/fonts/type1/public/rsfs/rsfs10.pfb></usr/local/texlive/2013/texmf-dist/fo
 nts/type1/public/rsfs/rsfs5.pfb>
-Output written on halodensityprofile_v2.pdf (24 pages, 2131051 bytes).
+Output written on halodensityprofile_v2.pdf (25 pages, 2135116 bytes).
 PDF statistics:
- 234 PDF objects out of 1000 (max. 8388607)
- 146 compressed objects within 2 object streams
+ 238 PDF objects out of 1000 (max. 8388607)
+ 149 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  91 words of extra memory for PDF output out of 10000 (max. 10000000)
 
